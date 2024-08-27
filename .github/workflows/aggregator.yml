@@ -1,0 +1,70 @@
+name: Copy, Archive, and Merge Files from Another Repo
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Runs every 15 minutes
+  push:
+
+jobs:
+  copy-archive-and-merge-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Fetch source file
+        run: |
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+               -H "Accept: application/vnd.github.v3.raw" \
+               -o source_file.txt \
+               https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/V2RAY_SUB.txt
+
+      - name: Copy, archive, and merge files
+        run: |
+          python -c "
+          import os
+          import shutil
+          from datetime import datetime, timedelta
+          
+          # Create archive directory if it doesn't exist
+          archive_dir = 'archive'
+          os.makedirs(archive_dir, exist_ok=True)
+          
+          # Copy the file with timestamp
+          current_time = datetime.now()
+          timestamp = current_time.strftime('%Y%m%d_%H%M')
+          archive_file = f'{archive_dir}/source_file_{timestamp}.txt'
+          shutil.copy('source_file.txt', archive_file)
+          
+          # Remove files older than 24 hours and collect valid files
+          valid_files = []
+          for filename in os.listdir(archive_dir):
+              file_path = os.path.join(archive_dir, filename)
+              file_time = datetime.fromtimestamp(os.path.getmtime(file_path))
+              if current_time - file_time > timedelta(hours=24):
+                  os.remove(file_path)
+              else:
+                  valid_files.append(file_path)
+          
+          # Merge valid files into a single file
+          with open('merged_24h.txt', 'w') as merged_file:
+              for file_path in valid_files:
+                  with open(file_path, 'r') as infile:
+                      merged_file.write(infile.read())
+                  merged_file.write('\n\n')
+          "
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add archive merged_24h.txt
+          git commit -m "Update, archive, and merge files from source repository" || exit 0
+          git push
