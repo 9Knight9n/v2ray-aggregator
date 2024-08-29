@@ -394,6 +394,18 @@ vmess://eyJ2IjogMiwgImFkZCI6ICJ6dWxhLmlyIiwgImFpZCI6IDAsICJob3N0IjogInNwZWVkdGVz
 ss://YWVzLTI1Ni1nY206MC9laHRXbk5kV3NYYVh6RUZLUFJST014MXlHYmp6aXo2T01CeG1GblUraz0=@[2a03:6f00:a::30d3]:2095?tfo=1&network=tcp#😎@v2ray_configs_pool😎
 
 
+vless://825c2a6c-6e6b-486d-812d-d9f8bd386bfc@104.21.19.124:8880?type=httpupgrade&path=%2Fnazan%2Fpedar%2Fsag&host=splUs.Ir.DigIcYBer.CLIck.&security=none#😎@v2ray_configs_pool😎
+vless://825c2a6c-6e6b-486d-812d-d9f8bd386bfc@185.146.173.52:8880?type=httpupgrade&security=none&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#😎@v2ray_configs_pool😎
+vless://825c2a6c-6e6b-486d-812d-d9f8bd386bfc@104.21.19.124:8880?type=httpupgrade&path=%2Fnazan%2Fpedar%2Fsag&host=splUs.Ir.DigIcYBer.CLIck.&security=none#😎@v2ray_configs_pool😎
+vless://825c2a6c-6e6b-486d-812d-d9f8bd386bfc@185.146.173.52:8880?type=httpupgrade&security=none&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#😎@v2ray_configs_pool😎
+vless://DIGIV2rAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&type=ws#😎@v2ray_configs_pool😎
+vless://DIGIV2rAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#😎@v2ray_configs_pool😎
+vless://fi-Hqv2rayNG@speedtest.net:443?path=%2Fhqv2ray%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=HqNetwork.iR&fp=firefox&type=ws&sni=speedtest.net#😎@v2ray_configs_pool😎
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToydzJ5VDlVYmcya0lmcU9oc2hLWmN2@165.22.238.239:44386/?outline=1#😎@v2ray_configs_pool😎
+vmess://eyJhZGQiOiAiU3VzYW5sYS5yb3hpZmEuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMmVjZjM2NWUtNjgxNy00Y2RhLWJlZDYtOGJlNDAxMjRlODQ1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9yYWZhP2VkPTEwMjQiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZTBlQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGUwZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiUGF1bC5yb3hpZmEuaXIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.24:9090#😎@v2ray_configs_pool😎
+
+
 vless://5d8b1149-8f78-4154-a647-16563ec99c8a@172.67.154.101:443?encryption=none&security=tls&sni=hello-world-empty-feather-0943.sitosa5105.workers.Dev&type=ws&host=hello-world-empty-feather-0943.sitosa5105.workers.Dev&path=%2F#😊@v2ray_configs_pool😊
 vless://a5542579-59e9-4bd3-8d93-eb609f83e19b@188.114.97.3:443?encryption=none&security=tls&sni=ARiAMEHr-EYQ.PAGeS.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ariameHr-Eyq.paGES.Dev&path=%2FJoin-NETMelliAnti%2F%3Fed%3D2048#😊@v2ray_configs_pool😊
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@172.67.204.39:443?encryption=none&security=tls&sni=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2FTel-@SiNABiGO%2F%3Fed%3D2560#😊@v2ray_configs_pool😊
