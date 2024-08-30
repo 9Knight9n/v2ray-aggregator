@@ -994,6 +994,18 @@ vless://SVNTEAM16@speedtest.net:443?path=%2FSVNTEAM%2CPROVIP%2CSVNTEAM%3Fed%3D10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#😊@v2ray_configs_pool😊
 
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-429.pages.dev:2087?path=%2FiI1uE8O7TaGb6Syc%3Fed%3D2560&security=tls&encryption=none&host=joInv2NgFAST-429.PaGES.DeV&type=ws&sni=jOinV2nGfAsT-429.PAgEs.dEv#🥰@v2ray_configs_pool🥰
+vless://e1913fbb-cc33-4e13-bb2b-db35b60e6a53@162.159.152.2:2053?path=%2F%3Fed&security=tls&encryption=none&alpn=http/1.1&host=cODe911cometOiraNNsOdsnefhhdkALCoshD.PAGes.dEv&type=ws&sni=Code911ComEtoiRAnnSODsnefHHdKAlCoShD.PaGEs.dEv#🥰@v2ray_configs_pool🥰
+vmess://eyJhZGQiOiAiMTcyLjY0LjMyLjE1NCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg3IiwgInBzIjogIlx1ZDgzZVx1ZGQ3MEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2VcdWRkNzAiLCAic2N5IjogImF1dG8iLCAic25pIjogImRkMjExNDZ5Z2ZkU05BOTE5MTI4MTI4MGtkbTIya2FzMjEyM0Fhd2RzZDEyMzRiYjE1NTEzODIxNzIwMC50ZWxlZ3JwaC5pbmZvIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJndW4iLCAidiI6ICIyIn0=
+vless://telegram-id-ArV2ray@speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&security=none&encryption=none&host=Ap.ir&type=ws#🥰@v2ray_configs_pool🥰
+vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?mode=gun&security=reality&encryption=none&alpn=h2,http/1.1&authority=&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&fp=chrome&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=f77e5398#🥰@v2ray_configs_pool🥰
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQnVkbE11M1pieXQ4enRZdGNMbVMz@195.2.76.71:60422#🥰@v2ray_configs_pool🥰
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#🥰@v2ray_configs_pool🥰
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4xODIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiXHVkODNlXHVkZDcwQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZVx1ZGQ3MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdm1ndVRiNks3SHpFdGVlMjJtbHM2@45.83.21.66:14783#🥰@v2ray_configs_pool🥰
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#🥰@v2ray_configs_pool🥰
+
+
 vless://Telegram-ipV2Ray-how@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#🥰@v2ray_configs_pool🥰
 vless://Telegram-ipV2Ray-how@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#🥰@v2ray_configs_pool🥰
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#🥰@v2ray_configs_pool🥰
