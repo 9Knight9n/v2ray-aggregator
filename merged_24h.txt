@@ -2362,6 +2362,18 @@ vless://b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080/?type=ws&encry
 vless://63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095/?type=ws&encryption=none&host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&path=TelegramChanel%3At.me%2FHTTP_injector99#😊@v2ray_configs_pool😊
 
 
+trojan://telegram-id-directvpn@15.157.230.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#➡️@v2ray_configs_pool⬅️
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#➡️@v2ray_configs_pool⬅️
+trojan://telegram-id-directvpn@15.157.230.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#➡️@v2ray_configs_pool⬅️
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#➡️@v2ray_configs_pool⬅️
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#➡️@v2ray_configs_pool⬅️
+vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.25.164.167:443?path=%2FRaCVjPY5k7jy2rTZ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=BPB-a-montH-aFTER-July.pAGeS.dEV&fp=randomized&type=ws&sni=BpB-a-monTh-AfTEr-jUly.paGeS.Dev#➡️@v2ray_configs_pool⬅️
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#➡️@v2ray_configs_pool⬅️
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a09kcG13VGpLUGdPVVNPN1E3Y0FPSi8rcHpQUnhYQWIzTjk3WDJJRnBrTT06bVM3NjRVNlVxZ1BxUkdWUXVkdXNNRW83enRrRlhPTHVJc1c0N2o4enAwND0=@167.172.111.237:21108#➡️@v2ray_configs_pool⬅️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#➡️@v2ray_configs_pool⬅️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#➡️@v2ray_configs_pool⬅️
+
+
 vless://spec-x-technology@beththebird.online:2052?path=%2Fcdn-specxtech-google.com.specxtech.com%3Fed%3D2560&security=none&encryption=none&host=cdn-specxtech-google.com.specxtech.com&type=httpupgrade#😎@v2ray_configs_pool😎
 vless://spec-x-technology@beththebird.online:2052?path=%2Fcdn-specxtech-google.com.specxtech.com%3Fed%3D2560&security=none&encryption=none&host=cdn-specxtech-google.com.specxtech.com&type=httpupgrade#😎@v2ray_configs_pool😎
 vless://d6e5198b-8168-4891-fa4b-632bb6793e36@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=2.v.v2.www.speedtest.net.roghanali.jonedel.coM.&type=httpupgrade#😎@v2ray_configs_pool😎
