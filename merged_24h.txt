@@ -3094,6 +3094,18 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.103:7001#😎@v2ray_configs_
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.225:7002#😎@v2ray_configs_pool😎
 
 
+trojan://telegram-id-directvpn@51.20.99.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔@v2ray_configs_pool
+trojan://telegram-id-privatevpns@13.53.178.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔@v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTA3LjE0OC4xOTIuMTUwIiwgImFpZCI6ICI2NCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0MTkxMSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+vless://0efe092d-8429-4848-ba31-dc716c71b60c@www.speedtest.net:80?security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed%3D2560&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&encryption=none#🆔@v2ray_configs_pool
+vless://6aa47223-bf55-4fda-ae76-c69bccb5b293@www.parspack.com:8880?type=httpupgrade&path=%2FSHHPROXY%3Fed%3D2048&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&security=none#🆔@v2ray_configs_pool
+vless://5edd0685-28ce-4661-8348-dcb43cf90e8e@46.245.72.32:28529?security=none&encryption=none&headerType=none&type=tcp#🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNDNqOFRhQ0RaYmhUbnBqS0Nwbmw3@165.22.238.239:44386/?outline=1#🆔@v2ray_configs_pool
+vless://dd722d0e-d444-48f1-90c7-806949a1e595@198.41.193.102:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=httpupgrade#🆔@v2ray_configs_pool
+vless://dd722d0e-d444-48f1-90c7-806949a1e595@198.41.193.102:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=httpupgrade#🆔@v2ray_configs_pool
+vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=VFIvE-teLeGram.PAGEs.Dev&fp=chrome&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#🆔@v2ray_configs_pool
+
+
 vless://a1320df6-ce7e-42ea-aca3-9abdcfba0346@www.parsvds.ir:8080?type=httpupgrade&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&security=none#😊@v2ray_configs_pool😊
 vless://a1320df6-ce7e-42ea-aca3-9abdcfba0346@www.parsvds.ir:8080?type=httpupgrade&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&security=none#😊@v2ray_configs_pool😊
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NFA5V1d1R1dwT3hDR2FUOWJVclI2@vienna.telegavpn.com:61992#😊@v2ray_configs_pool😊
