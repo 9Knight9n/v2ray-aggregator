@@ -574,6 +574,18 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:2053?
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:8443?path=%2FmzIuX2SHNQsfSMPK%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOinmAHdiserver-340.PAgeS.DEv&fp=randomized&type=ws&sni=jOinmahdiSeRVER-340.PAGES.DEV#🆔@v2ray_configs_pool
 
 
+trojan://telegram-id-privatevpns@52.214.134.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔@v2ray_configs_pool
+trojan://telegram-id-directvpn@3.78.59.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔@v2ray_configs_pool
+trojan://telegram-id-directvpn@3.78.59.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔@v2ray_configs_pool
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.208.191.35:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🆔@v2ray_configs_pool
+trojan://telegram-id-directvpn@3.78.59.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔@v2ray_configs_pool
+trojan://telegram-id-privatevpns@52.214.134.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔@v2ray_configs_pool
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:8443?path=%2FmzIuX2SHNQsfSMPK%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOinmAHdiserver-340.PAgeS.DEv&fp=randomized&type=ws&sni=jOinmahdiSeRVER-340.PAGES.DEV#🆔@v2ray_configs_pool
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:2053?path=%2F3VmWLTBaqH67eq8s%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoinmahDisErVer-340.PaGeS.DEv&fp=randomized&type=ws&sni=JOINMahDIsERvEr-340.pageS.dev#🆔@v2ray_configs_pool
+vless://-  KING OF SPEED  -@188.114.98.0:80?path=%2Fkingvrayng.shomalmegamall.ir.re%3Fed%3D8080&security=none&encryption=none&host=kingvrayng.shomalmegamall.ir&type=ws#🆔@v2ray_configs_pool
+vless://-  KING OF SPEED  -@185.146.173.237:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1,h3&authority=&fp=chrome&type=grpc&serviceName=@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY&sni=kingvrayng.shomalmegamall.ir#🆔@v2ray_configs_pool
+
+
 vless://%53%56%4E%54%45%41%4D18@speedtest.net:443?path=%2F%53%56%4E%54%45%41%4D%2CPROVIP%2C%53%56%4E%54%45%41%4D%3Fed%3D1024&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#😊@v2ray_configs_pool😊
 vless://%53%56%4E%54%45%41%4D18@speedtest.net:443?path=%2F%53%56%4E%54%45%41%4D%2CPROVIP%2C%53%56%4E%54%45%41%4D%3Fed%3D1024&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#😊@v2ray_configs_pool😊
 vless://%53%56%4E%54%45%41%4D18@speedtest.net:443?path=%2F%53%56%4E%54%45%41%4D%2CPROVIP%2C%53%56%4E%54%45%41%4D%3Fed%3D1024&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#😊@v2ray_configs_pool😊
