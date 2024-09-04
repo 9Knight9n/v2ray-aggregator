@@ -4930,6 +4930,18 @@ vless://251e61e3-f4db-4508-9e9d-2a80af4362b8@www.parspack.com:8880?encryption=no
 vless://Tel--ZEDMODEON@188.114.98.45:8080?security=none&encryption=none&type=httpupgrade#🥰@v2ray_configs_pool🥰
 
 
+vless://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?encryption=none&security=tls&sni=freedom11.fmnxmt.workers.dev&fp=chrome&type=ws&host=freedom11.fmnxmt.workers.dev&path=%2F#🆔@v2ray_configs_pool
+vless://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?encryption=none&security=tls&sni=freedom11.fmnxmt.workers.dev&fp=chrome&type=ws&host=freedom11.fmnxmt.workers.dev&path=%2F#🆔@v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.117.254.68:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=a.ssll.gay&type=ws#🆔@v2ray_configs_pool
+vless://50a%72sa%73%68%6fna%6d-55@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🆔@v2ray_configs_pool
+vless://DIGIV2RAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&type=ws#🆔@v2ray_configs_pool
+vless://DIGIV2RAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#🆔@v2ray_configs_pool
+vless://659001f3-e599-4f9b-9aad-618f30c91038@join.kiava.cloud.ohbah.com:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws90.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#🆔@v2ray_configs_pool
+vless://13b4ef57-e993-425f-9c41-5dd9af9751a7@join.kiava.cloud.ohbah.com:8880?encryption=none&security=none&type=httpupgrade&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ht90.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#🆔@v2ray_configs_pool
+vless://659001f3-e599-4f9b-9aad-618f30c91038@join.kiava.cloud.ohbah.com:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xnmgba2h8quf.cdn.ws90.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#🆔@v2ray_configs_pool
+vless://13b4ef57-e993-425f-9c41-5dd9af9751a7@join.kiava.cloud.ohbah.com:8880?encryption=none&security=none&type=httpupgrade&host=join.2.kiava.cloud.speedtest.net.xnmgba2h8quf.cdn.ht90.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#🆔@v2ray_configs_pool
+
+
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@zula.ir:443?path=%2FXWaLXW93BDUqwF2G%2Fc3BlZWR0ZXN0LWZyNS5nY29yZS5jb20%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=TElGramcxrOLVPn.paGEs.Dev&fp=randomized&type=ws&sni=TELgRaMCxroLVPN.PagES.Dev#🆔@v2ray_configs_pool
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@zula.ir:443?path=%2FXWaLXW93BDUqwF2G%2Fc3BlZWR0ZXN0LWZyNS5nY29yZS5jb20%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=TElGramcxrOLVPn.paGEs.Dev&fp=randomized&type=ws&sni=TELgRaMCxroLVPN.PagES.Dev#🆔@v2ray_configs_pool
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@zula.ir:443?path=%2FXWaLXW93BDUqwF2G%2Fc3BlZWR0ZXN0LWZyNS5nY29yZS5jb20%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=TElGramcxrOLVPn.paGEs.Dev&fp=randomized&type=ws&sni=TELgRaMCxroLVPN.PagES.Dev#🆔@v2ray_configs_pool
