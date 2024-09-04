@@ -1918,6 +1918,18 @@ vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053/?type=ws&encrypt
 vless://34208027-101c-4e79-a0e3-87f62ef214e6@172.66.46.220:2083/?type=ws&encryption=none&host=MoRtEzA865.paGES.DEV&path=%2Fv3mqqmhkvvozmhv5%3Fed%3D2560&security=tls&sni=MoRtEzA865.paGES.DEV#🥰@v2ray_configs_pool🥰
 
 
+vless://DIGIV2RAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@151.101.2.219:443?type=ws&host=Telegram-XV2ray--XV2ray--XV2ray--XV2ray--XV2ray.XV2ray--XV2ray--XV2ray--XV2ray--XV2ray.XV2ray--XV2ray--XV2ray--XV2ray--XV2ray.com&path=/Telegram-XV2ry2?ed%3D1080P&security=tls&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?type=ws&host=Telegram-w-XV2ray--XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&path=/Telegram-XV2ry2?ed%3D512&security=tls&sni=Pages.dev#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://492f8b68-81ac-4760-83d7-b095706eea88@151.101.2.219:443?type=ws&host=telegram-xv2ray--xv2ray--xv2ray--xv2ray--xv2ray--xv2ray.com&path=/4channel?ed%3D512&security=tls&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://492f8b68-81ac-4760-83d7-b095706eea88@www.speedtest.net:80?type=ws&host=www.speedtest.net.30.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&path=/4channel?ed%3D512#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://492f8b68-81ac-4760-83d7-b095706eea88@104.16.16.16:443?type=ws&host=Join-Telegram-0-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&path=/4channel?ed%3D512&security=tls&sni=Pages.dev#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:80?type=ws&host=www.speedtest.net.20.10.10.10.10.ir.xn--g28h.dns-dynamic.net.&path=/Telegram-XV2ry2?ed%3D512#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://%50a%72sa%73%68%6fna%6d-56@185.146.173.39:8880?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool🛜🇸🇪Sweden
+vless://0002c4a9-776f-4691-bc01-c7239855fd60@104.17.147.22:2095/?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&type=httpupgrade&path=%2FConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs%3Fed%3D2048&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://e1c153f2-ee33-4535-9c42-81e0e55a3271@104.21.20.148:8880?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&type=httpupgrade&path=%2FSHHPROXY%3Fed%3D80&host=Chess.com.xrmrig3.ir.&security=none#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+
+
 vless://5f4cb353-4fa7-4191-8e48-32e5cf34bb6f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V18.SiMansaNaT.Ir.#😊@v2ray_configs_pool😊
 vless://5f4cb353-4fa7-4191-8e48-32e5cf34bb6f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V05.SiMansaNaT.Ir.#😊@v2ray_configs_pool😊
 vless://5f4cb353-4fa7-4191-8e48-32e5cf34bb6f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V14.SiMansaNaT.Ir.#😊@v2ray_configs_pool😊
