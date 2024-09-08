@@ -1,0 +1,10 @@
+vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.28:6679#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.139.111:2096?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=967a6F20.hoSSeinPool.PAGEs.Dev&fp=randomized&type=ws&sni=967A6f20.HosSeINpOOl.pagEs.deV#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.152:2375#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
+vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
+vless://45f435e7-d09d-4412-b8a8-891c29644152@217.60.242.204:13189?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
+vless://ab954190-4554-4c09-9dfe-dc264069e9ee@5.223.41.114:8081?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool🛜🇸🇬Singapore
