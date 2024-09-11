@@ -1,0 +1,10 @@
+hy2://2d74af94-4fff-4d5e-8d16-bad431f9fc92@cucc.xn--jbyq16e.xyz:41137?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
+hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@cmcc.xn--jbyq16e.xyz:41131?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
+hy2://4a556a88-11ac-4f61-85fd-0c14975ef8c5@ctcc.xn--jbyq16e.xyz:41117?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
+hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@ctcc.xn--jbyq16e.xyz:41134?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+hy2://4a556a88-11ac-4f61-85fd-0c14975ef8c5@cucc.xn--jbyq16e.xyz:41116?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
+hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@cmcc.xn--jbyq16e.xyz:41137?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇭🇰Hong Kong
+hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@ctcc.xn--jbyq16e.xyz:41134?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+hy2://5fba41b4-6fe1-47fc-aba3-8a628dc59183@cmcc.xn--jbyq16e.xyz:41131?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+hy2://5f062e34-a8a2-40c9-b9be-58e58bbb76e6@cucc.xn--jbyq16e.xyz:41161?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
+hy2://313cd44f-0748-4630-95e9-4ec937e92f23@cucc.xn--jbyq16e.xyz:41119?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
