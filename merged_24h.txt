@@ -7942,6 +7942,18 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#😊@v2ray_configs_pool😊
 
 
+vless://8ed3a3a9-9440-4e15-bf8e-06f06fb2c365@paydars.gostarservers.ir:8443/?type=grpc&serviceName=&authority=&security=tls&fp=edge&alpn=h2%2Chttp%2F1.1%2Ch3&sni=paydar.gostarservers.ir#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://492f8b68-81ac-4760-83d7-b095706eea88@www.speedtest.net:80?type=ws&host=www.speedtest.net.10.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&path=/4channel?ed%3D512#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+vless://492f8b68-81ac-4760-83d7-b095706eea88@104.16.16.16:443?type=ws&host=telegrm432xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-x.pages.dev&path=/4channel?ed%3D512&security=tls&sni=Pages.dev#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+vless://492f8b68-81ac-4760-83d7-b095706eea88@151.101.2.219:443?type=ws&host=Telegram-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-xv2ray.com&path=/4channel?ed%3D512&security=tls&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:80?type=ws&host=www.speedtest.net.10.432.10.10.10.10.ir.xn--g28h.dns-dynamic.net.&path=/Telegram-XV2ry2?ed%3D512#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?type=ws&host=telgram-xv2ray--xv2ray--xv2ray--xv2ray--xv2ray2.pages.dev&path=/Telegram-XV2ry2?ed%3D512&security=tls&sni=Pages.dev#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+vless://f0e1cbf8-765b-41e9-93ca-5d5af7e928e7@92.114.17.23:38582?path=%2F%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@13.42.117.126:443#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@13.42.117.126:443#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
+vless://%50a%72sa%73%68%6fna%6d-60@speedtest.net:443?path=%2F%40%50a%72sa%73%68%6fna%6d%2Fws%3Fed%3D2560&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&encryption=none&alpn=h2,http/1.1&host=%50a%72sa%73%68%6fna%6d0.com&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+
+
 vless://e1913fbb-cc33-4e13-bb2b-db35b60e6a53@162.159.152.2:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=cODe911cometOiraNNsOdsnefhhdkALCoshD.PAGes.dEv&fp=360&type=ws&sni=Code911ComEtoiRAnnSODsnefHHdKAlCoShD.PaGEs.dEv#🥰@v2ray_configs_pool🥰
 vless://Join-Telegram-Picumin@190.93.247.155:80?path=%2Frobots.txt%3Fed%3D2560&security=none&encryption=none&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&type=ws#🥰@v2ray_configs_pool🥰
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@54.194.162.247:80?path=TG+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=a.ssll.gay&type=ws#🥰@v2ray_configs_pool🥰
