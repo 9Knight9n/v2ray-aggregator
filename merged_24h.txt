@@ -4522,6 +4522,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#�
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004?security=none&encryption=none&headerType=none&type=tcp#🆔@v2ray_configs_pool
 
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3R2d4dGF2dlNBdG5ESXZheTdha211@64.226.98.217:40678/?outline=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.229.104.59:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-directvpn@3.99.69.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@3.99.69.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@13.48.109.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-directvpn@3.99.69.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@173.245.58.100:443?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=bia-2-vip-programs.hsjsak.ir&fp=random&type=ws&sni=bia-2-vip-programs.hsjsak.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9aaedc51-2367-4239-a88b-0756dfc9689e@172.67.193.87:8880?path=%2FgPPi3HNBe90lwSgS%3Fed%3D2540&security=none&encryption=none&host=dFB.De.sOccERsTAr.cOM--Mx-1hs-38xk.miTsOnIc.cOm&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=de1-moryvpnbot.pages.dev&type=ws&sni=de1-moryvpnbot.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9aaedc51-2367-4239-a88b-0756dfc9689e@172.67.193.87:8880?path=%2FgPPi3HNBe90lwSgS%3Fed%3D2540&security=none&encryption=none&host=dFB.De.sOccERsTAr.cOM--Mx-1hs-38xk.miTsOnIc.cOm&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNWNBeHBlWnpWdHVrRDJnejVGUTZn@212.118.54.195:443#➡️@v2ray_configs_pool⬅️
