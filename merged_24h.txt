@@ -346,6 +346,18 @@ vless://40e02d20-584e-4e14-88f2-ab114d3af2af@193.151.137.187:2095?path=%2F&secur
 vless://4d7f6dd7-b0d3-468d-87df-c7426f542b3d@194.5.178.153:443?security=none&encryption=none&headerType=none&type=tcp#🆔@v2ray_configs_pool
 
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.84:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6e7a975f-c8b3-46cf-987b-7cfc1bc0ea79@speedtest.net:443?path=%2Fde%3Fed%3D1048&security=tls&encryption=none&host=shuposipet.com&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.193:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6e7a975f-c8b3-46cf-987b-7cfc1bc0ea79@speedtest.net:443?path=%2Fde%3Fed%3D1048&security=tls&encryption=none&host=papetpetshup.com&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.134:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.79:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.235.37.81:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.21:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.96:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.174:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+
+
 vless://68535d45-9247-4921-b037-f5c015de7952@www.parsvds.ir:8080?type=httpupgrade&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none#😍@v2ray_configs_pool😍
 vless://3a9b0d7b-2740-4fe7-9a70-d1515987a3c9@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc14.lebasnoo.ir.&type=ws#😍@v2ray_configs_pool😍
 vless://7640c239-e109-46e0-8af2-fd721c5b60ef@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc12.lebasnoo.ir.&type=ws#😍@v2ray_configs_pool😍
