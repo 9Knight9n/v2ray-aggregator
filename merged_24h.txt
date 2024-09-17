@@ -15562,6 +15562,18 @@ vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080/?type=ws&encrypti
 vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@104.21.7.27:443/?type=ws&encryption=none&host=solid.footballlovernews.com&path=%2Fsolid%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&sni=solid.footballlovernews.com#😎@v2ray_configs_pool😎
 
 
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.119:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://%50a%72sa%73%68%6fna%6d-63@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.150.152.16:9102#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.113:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.103:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.87.222:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+
+
 vless://8ead99b4-d478-4caf-b170-7359afee247b@104.17.148.22:8443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=randomized&type=ws&sni=VPNCUSTOMIZE.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://f3e4d5b2-b383-43b2-b48f-3f4ec985a2a4@104.17.147.22:8443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://434868ba-0b80-46ba-b2fd-a12820db077b@2.180.16.15:53000?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
