@@ -1,0 +1,10 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://e5b45f34-c47e-496b-a8e6-bb4c0c74d8b0@195.178.121.238:58218?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
+vless://a67872dc-6137-436d-b63f-c2edcca6b331@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=xs2ray.com&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://70f090b5-33ec-4a08-b5af-13a752f23140@79.127.70.73:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://1-1-1-1-1@apple.slumbo.com:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://a81ab372-a696-4841-91a9-9af42516b091@ultrasenalz.duckdns.org:20180?path=%2F&security=tls&encryption=none&type=ws&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-aeb.pages.dev:2087?path=%2FccXpjwOtX57pqG6C%3Fed%3D2560&security=tls&encryption=none&host=jOiNv2nGFAst-AeB.pAGes.DEV&type=ws&sni=JoiNV2ngfaST-aeb.PagEs.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://e5b45f34-c47e-496b-a8e6-bb4c0c74d8b0@195.178.121.238:58218?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
