@@ -7258,6 +7258,18 @@ trojan://telegram-id-privatevpns@16.16.102.95:22222?security=tls&alpn=http/1.1&h
 vless://1e7153b1-0bdb-4765-a097-cbf541d78b1f@speedtest.net:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybede.ir&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 
 
+hy2://e88d427e-39e9-4bef-8f82-ec957baf5ae3@down.with.israel.azarakhsh.monster:59948/?sni=down.with.israel.azarakhsh.monster&obfs=salamander&obfs-password=T4FIsbEVq0oh37YMkj3qcvUY#👉🆔 @v2ray_configs_pool📡🇫🇷France
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@141.148.182.2:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@144.22.197.28:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@192.9.165.40:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@140.245.27.220:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇮🇳India
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@168.75.68.172:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@192.9.179.140:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+vless://7053a948-73c2-4c9e-907c-53cb2c81a0af@79.175.129.65:27703?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://612f4024-b6e5-49c2-bff1-aad708dcefe9@www.speedtest.net:80?path=%2Fhormozv.hormozv.hormozv.hormozv%3Fed%3D2048&security=none&encryption=none&host=hormoz.Paradisewarfare.ir.losehismind.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
 vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?path=%2FTELEGRAM%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel-chf.pages.dev&type=ws&sni=bpb-worker-panel-chf.pages.dev#😊@v2ray_configs_pool😊
 vless://b5d21d3b-5536-4d0b-9200-83722833957b@104.21.57.17:8880?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8880&security=none&encryption=none&host=001.V2.h.www.speedtest.net.academigroup.iR.&type=httpupgrade#😊@v2ray_configs_pool😊
 vmess://eyJhZGQiOiAiMTA0LjIxLjk1LjE2NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJzYXJlaWtlbGEuY29tIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRlMGFAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBhIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJzYXJlaWtlbGEuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
