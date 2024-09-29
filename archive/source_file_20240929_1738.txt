@@ -1,0 +1,10 @@
+vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg18.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg18.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://b20b8c83-257e-40ab-a10d-b049ab69b40b@viptcpondertoooo.holabpql.ir:3030?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@172.64.33.243:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dns68.putata.eu.org&fp=randomized&type=ws&sni=dns68.putata.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://f020d578-a5d6-4f2e-937f-34b1310b46fb@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d7591ebf-5dce-4c6d-8560-e9040d6b08b1@104.18.218.118:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
