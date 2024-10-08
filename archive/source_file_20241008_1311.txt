@@ -1,0 +1,10 @@
+vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=store.steampowered.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.facebook.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.youtube.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://211d5ac7-0324-4416-806d-5d373c7c9253@104.17.147.22:80?path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
