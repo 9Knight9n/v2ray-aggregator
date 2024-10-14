@@ -1,0 +1,10 @@
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@156.238.18.251:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ConfigTell&sni=adsl.felafel.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@156.238.18.162:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ConfigTell&sni=adsl.felafel.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@185.174.138.250:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ConfigTell&sni=adsl.felafel.orgl#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@173.245.49.6:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ConfigTell&sni=adsl.felafel.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@45.142.120.190:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ConfigTell&sni=adsl.felafel.org#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@141.101.120.0:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ConfigTell&sni=adsl.felafel.org#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@195.85.59.155:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ConfigTell&sni=adsl.felafel.org#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@141.101.120.0:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ConfigTell&sni=adsl.felafel.org#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@194.36.55.247:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ConfigTell&sni=adsl.felafel.org#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@45.85.118.79:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ConfigTell&sni=adsl.felafel.org#👉🆔 @v2ray_configs_pool📡🇷🇴Romania
