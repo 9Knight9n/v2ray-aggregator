@@ -1,0 +1,10 @@
+vless://021a2e9a-b280-477f-b72f-96d8a01ebd02@free.kalindu.xyz:443?security=tls&sni=imo.im&allowInsecure=1&type=ws&path=/&encryption=none#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://021a2e9a-b280-477f-b72f-96d8a01ebd02@free.kalindu.xyz:443?security=tls&sni=telegram.org&allowInsecure=1&type=ws&path=/&encryption=none#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://021a2e9a-b280-477f-b72f-96d8a01ebd02@free.kalindu.xyz:443?security=tls&sni=market.android.com&allowInsecure=1&type=ws&path=/&encryption=none#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://021a2e9a-b280-477f-b72f-96d8a01ebd02@free.kalindu.xyz:443?security=tls&sni=viber.com&allowInsecure=1&type=ws&path=/&encryption=none#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://021a2e9a-b280-477f-b72f-96d8a01ebd02@free.kalindu.xyz:443?security=tls&sni=telegram.org&allowInsecure=1&type=ws&path=/&encryption=none#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://aaf8a6c9-aaad-4f85-dd01-9ccd4ca554f9@xraypsiphon.sassanidempire.com:443?type=ws&host=xraypsiphon.sassanidempire.com&path=/wspath&security=tls&fp=randomized&sni=xraypsiphon.sassanidempire.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://021a2e9a-b280-477f-b72f-96d8a01ebd02@free.kalindu.xyz:443?security=tls&sni=market.android.com&allowInsecure=1&type=ws&path=/&encryption=none#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
