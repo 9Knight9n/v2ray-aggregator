@@ -2,7 +2,7 @@ name: Copy, Archive, and Merge Files from Another Repo
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Runs every 15 minutes
+    - cron: '0 */2 * * *'  # Runs every 15 minutes
   push:
 
 jobs:
