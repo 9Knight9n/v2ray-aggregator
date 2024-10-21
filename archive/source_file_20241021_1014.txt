@@ -1,0 +1,10 @@
+vless://019990b3-2ec5-4d55-96bd-3d8d9959a5e9@185.146.173.58:8080?type=ws&host=lc66.lebasnoo.ir.&path=%2Fservernett#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://abbacac-acab-baca-dacb-cbcbabacaabc@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://019990b3-2ec5-4d55-96bd-3d8d9959a5e9@185.146.173.58:8080?type=ws&host=lc66.lebasnoo.ir.&path=%2Fservernett#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.208:443?security=tls&sni=cs.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://019990b3-2ec5-4d55-96bd-3d8d9959a5e9@185.146.173.58:8080?type=ws&host=lc66.lebasnoo.ir.&path=%2Fservernett#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.191:443?security=tls&sni=bpB005.paGeS.DEv&type=ws&path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.85:443?security=tls&sni=lt.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.208:443?security=tls&sni=cs.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
