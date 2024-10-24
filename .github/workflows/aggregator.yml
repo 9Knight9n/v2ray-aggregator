@@ -52,7 +52,7 @@ jobs:
           valid_files = []
           for filename in os.listdir(archive_dir):
               file_path = os.path.join(archive_dir, filename)
-              file_mtime = datetime.fromtimestamp(filename.replace(".txt", ""), tz=utc)
+              file_mtime = datetime.fromtimestamp(filename.replace('.txt', ''), tz=utc)
               age = current_time - file_mtime
               
               print(f'File: {filename}')
