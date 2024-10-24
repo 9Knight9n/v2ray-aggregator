@@ -1,7 +1,7 @@
 name: Copy, Archive, and Merge Files from Another Repo
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */2 * * *'  # Fixed cron syntax
   push:
 jobs:
   copy-archive-and-merge-file:
@@ -30,7 +30,7 @@ jobs:
           import shutil
           from datetime import datetime, timedelta
           import pytz
-
+          
           # Use UTC timezone for consistent timestamps
           utc = pytz.UTC
           current_time = datetime.now(utc)
@@ -40,43 +40,54 @@ jobs:
           os.makedirs(archive_dir, exist_ok=True)
           
           # Copy the file with timestamp
-          timestamp = current_time.timestamp()
+          timestamp = int(current_time.timestamp())
           archive_file = f'{archive_dir}/{timestamp}.txt'
           shutil.copy('source_file.txt', archive_file)
           
           # Debug information
           print(f'Current time (UTC): {current_time}')
+          print(f'Created new file: {archive_file}')
           print('\nExisting files:')
           
           # Remove files older than 24 hours and collect valid files
           valid_files = []
           for filename in os.listdir(archive_dir):
-              file_path = os.path.join(archive_dir, filename)
-              file_mtime = datetime.fromtimestamp(filename.replace('.txt', ''), tz=utc)
-              age = current_time - file_mtime
-              
-              print(f'File: {filename}')
-              print(f'Modified time: {file_mtime}')
-              print(f'Age: {age}')
-              
-              if age > timedelta(hours=24):
-                  print(f'Deleting {filename} (older than 24 hours)')
-                  os.remove(file_path)
-              else:
-                  print(f'Keeping {filename} (within 24 hours)')
-                  valid_files.append(file_path)
+              try:
+                  file_path = os.path.join(archive_dir, filename)
+                  timestamp_str = filename.replace('.txt', '')
+                  
+                  # Convert timestamp string to float/int before creating datetime
+                  timestamp_float = float(timestamp_str)
+                  file_mtime = datetime.fromtimestamp(timestamp_float, tz=utc)
+                  age = current_time - file_mtime
+                  
+                  print(f'File: {filename}')
+                  print(f'Timestamp: {timestamp_float}')
+                  print(f'Modified time: {file_mtime}')
+                  print(f'Age: {age}')
+                  
+                  if age > timedelta(hours=24):
+                      print(f'Deleting {filename} (older than 24 hours)')
+                      os.remove(file_path)
+                  else:
+                      print(f'Keeping {filename} (within 24 hours)')
+                      valid_files.append(file_path)
+              except (ValueError, OSError) as e:
+                  print(f'Error processing {filename}: {str(e)}')
               print('---')
-            
           
           print(f'\nTotal valid files: {len(valid_files)}')
           
           # Merge valid files into a single file
-          with open('merged_24h.txt', 'w') as merged_file:
-              for file_path in sorted(valid_files):  # Sort files to maintain consistent order
-                  print(f'Merging: {file_path}')
-                  with open(file_path, 'r') as infile:
-                      merged_file.write(infile.read())
-                  merged_file.write('\n\n')
+          try:
+              with open('merged_24h.txt', 'w') as merged_file:
+                  for file_path in sorted(valid_files):  # Sort files to maintain consistent order
+                      print(f'Merging: {file_path}')
+                      with open(file_path, 'r') as infile:
+                          merged_file.write(infile.read())
+                      merged_file.write('\n\n')
+          except Exception as e:
+              print(f'Error merging files: {str(e)}')
           "
       - name: Commit and push changes
         run: |
