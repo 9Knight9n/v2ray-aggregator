@@ -51,7 +51,9 @@ jobs:
           # Remove files older than 24 hours and collect valid files
           valid_files = []
           for filename in os.listdir(archive_dir):
+              file_path = os.path.join(archive_dir, filename)
               os.remove(file_path)
+            
           
           print(f'\nTotal valid files: {len(valid_files)}')
           
