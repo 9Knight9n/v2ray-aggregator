@@ -1,10 +1,8 @@
 name: Copy, Archive, and Merge Files from Another Repo
-
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Runs every 15 minutes
+    - cron: '0 */2 * * *'
   push:
-
 jobs:
   copy-archive-and-merge-file:
     runs-on: ubuntu-latest
@@ -13,54 +11,70 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-
       - name: Fetch source file
         run: |
           curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
                -H "Accept: application/vnd.github.v3.raw" \
                -o source_file.txt \
                https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/V2RAY_SUB.txt
-
       - name: Copy, archive, and merge files
         run: |
           python -c "
           import os
           import shutil
           from datetime import datetime, timedelta
+          import pytz
+
+          # Use UTC timezone for consistent timestamps
+          utc = pytz.UTC
+          current_time = datetime.now(utc)
           
           # Create archive directory if it doesn't exist
           archive_dir = 'archive'
           os.makedirs(archive_dir, exist_ok=True)
           
           # Copy the file with timestamp
-          current_time = datetime.now()
           timestamp = current_time.strftime('%Y%m%d_%H%M')
           archive_file = f'{archive_dir}/source_file_{timestamp}.txt'
           shutil.copy('source_file.txt', archive_file)
+          
+          # Debug information
+          print(f'Current time (UTC): {current_time}')
+          print('\nExisting files:')
           
           # Remove files older than 24 hours and collect valid files
           valid_files = []
           for filename in os.listdir(archive_dir):
               file_path = os.path.join(archive_dir, filename)
-              file_time = datetime.fromtimestamp(os.path.getmtime(file_path))
-              if current_time - file_time > timedelta(hours=24):
+              file_mtime = datetime.fromtimestamp(os.path.getmtime(file_path), tz=utc)
+              age = current_time - file_mtime
+              
+              print(f'File: {filename}')
+              print(f'Modified time: {file_mtime}')
+              print(f'Age: {age}')
+              
+              if age > timedelta(hours=24):
+                  print(f'Deleting {filename} (older than 24 hours)')
                   os.remove(file_path)
               else:
+                  print(f'Keeping {filename} (within 24 hours)')
                   valid_files.append(file_path)
+              print('---')
+          
+          print(f'\nTotal valid files: {len(valid_files)}')
           
           # Merge valid files into a single file
           with open('merged_24h.txt', 'w') as merged_file:
-              for file_path in valid_files:
+              for file_path in sorted(valid_files):  # Sort files to maintain consistent order
+                  print(f'Merging: {file_path}')
                   with open(file_path, 'r') as infile:
                       merged_file.write(infile.read())
                   merged_file.write('\n\n')
           "
-
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
