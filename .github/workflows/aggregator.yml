@@ -21,6 +21,8 @@ jobs:
                -H "Accept: application/vnd.github.v3.raw" \
                -o source_file.txt \
                https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/V2RAY_SUB.txt
+      - name: Install dependencies
+        run: pip install pytz
       - name: Copy, archive, and merge files
         run: |
           python -c "
