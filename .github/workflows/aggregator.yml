@@ -10,7 +10,7 @@ jobs:
       - name: Checkout current repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          fetch-depth: 1
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -95,4 +95,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add archive merged_24h.txt
           git commit -m "Update, archive, and merge files from source repository" || exit 0
-          git push
+          git push --force
