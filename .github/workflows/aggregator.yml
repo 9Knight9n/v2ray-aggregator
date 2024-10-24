@@ -15,14 +15,14 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+      - name: Install dependencies
+        run: pip install pytz
       - name: Fetch source file
         run: |
           curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
                -H "Accept: application/vnd.github.v3.raw" \
                -o source_file.txt \
                https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/V2RAY_SUB.txt
-      - name: Install dependencies
-        run: pip install pytz
       - name: Copy, archive, and merge files
         run: |
           python -c "
@@ -40,8 +40,8 @@ jobs:
           os.makedirs(archive_dir, exist_ok=True)
           
           # Copy the file with timestamp
-          timestamp = current_time.strftime('%Y%m%d_%H%M')
-          archive_file = f'{archive_dir}/source_file_{timestamp}.txt'
+          timestamp = current_time.timestamp()
+          archive_file = f'{archive_dir}/{timestamp}.txt'
           shutil.copy('source_file.txt', archive_file)
           
           # Debug information
@@ -51,21 +51,7 @@ jobs:
           # Remove files older than 24 hours and collect valid files
           valid_files = []
           for filename in os.listdir(archive_dir):
-              file_path = os.path.join(archive_dir, filename)
-              file_mtime = datetime.fromtimestamp(os.path.getmtime(file_path), tz=utc)
-              age = current_time - file_mtime
-              
-              print(f'File: {filename}')
-              print(f'Modified time: {file_mtime}')
-              print(f'Age: {age}')
-              
-              if age > timedelta(hours=24):
-                  print(f'Deleting {filename} (older than 24 hours)')
-                  os.remove(file_path)
-              else:
-                  print(f'Keeping {filename} (within 24 hours)')
-                  valid_files.append(file_path)
-              print('---')
+              os.remove(file_path)
           
           print(f'\nTotal valid files: {len(valid_files)}')
           
