@@ -66,7 +66,7 @@ jobs:
                   print(f'Modified time: {file_mtime}')
                   print(f'Age: {age}')
                   
-                  if age > timedelta(hours=24):
+                  if age > timedelta(hours=48):
                       print(f'Deleting {filename} (older than 24 hours)')
                       os.remove(file_path)
                   else:
