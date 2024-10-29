@@ -202,18 +202,6 @@ vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&securit
 vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 
 
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.youtube.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=EMPTY HOST#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=www.callofduty.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.facebook.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-
-
 vless://a3bfbd98-480d-452e-aead-a9dfcf3532a4@151.101.66.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=chde.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://auto@104.25.254.4:2087?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev/?ed=2560&host=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-Afv2Ray@re.iranfastfod.ir:8443?security=reality&headerType=none&type=tcp&sni=www.speedtest.net#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
@@ -296,5 +284,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaSUJVZEVwd2tST016bWdhT2k4Z0lC@45.159.249.42:
 vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?encryption=none&security=tls&sni=JoInMahDISeRver-bg3.PAGes.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=JoiNMAhdISERver-Bg3.pAGES.DEv&path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-directvpn@3.137.24.94:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+
+
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.111:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@13.36.193.45:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=internet4everieone7.pages.dev&fp=randomized&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@142.202.49.119:5499#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.51:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5d090fee-cb75-4df8-ae97-385f388fbca5@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%3Fed%3D%40Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn%2B2048&host=torent.ir&sni=hajlab.ucdavis.edu&fp=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@142.202.49.119:5499#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d71b1f3d-2b16-4da3-8240-861e642d1ab9@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Golestanvpn.com&fp=firefox&type=ws&sni=live.989bull.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d71b1f3d-2b16-4da3-8240-861e642d1ab9@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Golestanvpn.com&fp=firefox&type=ws&sni=live.989bull.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5d090fee-cb75-4df8-ae97-385f388fbca5@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%3Fed%3D%40Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn%2B2048&host=torent.ir&sni=hajlab.ucdavis.edu&fp=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 
 
