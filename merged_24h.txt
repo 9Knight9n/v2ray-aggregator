@@ -106,18 +106,6 @@ vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&securit
 vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 
 
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.youtube.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=EMPTY HOST#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=www.callofduty.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.facebook.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-
-
 vless://a3bfbd98-480d-452e-aead-a9dfcf3532a4@151.101.66.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=chde.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://auto@104.25.254.4:2087?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev/?ed=2560&host=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-Afv2Ray@re.iranfastfod.ir:8443?security=reality&headerType=none&type=tcp&sni=www.speedtest.net#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
@@ -284,5 +272,17 @@ vless://33922f9f-6f4a-4003-a539-648873a28218@hajlab.ucdavis.edu:443?security=tls
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+
+
+vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&fp=randomized&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&fp=randomized&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@13.48.54.179:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=internet4everieone7.pages.dev&fp=randomized&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f9189ee5-3883-401c-a475-3b24cf32e0f2@185.146.173.49:80?path=%2Fvless&security=none&encryption=none&host=Uk2.v2vless.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f9189ee5-3883-401c-a475-3b24cf32e0f2@185.146.173.49:80?path=%2Fvless&security=none&encryption=none&host=Uk2.v2vless.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 
 
