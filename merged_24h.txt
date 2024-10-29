@@ -82,18 +82,6 @@ vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&securit
 vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 
 
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.youtube.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=EMPTY HOST#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=www.callofduty.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.facebook.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-
-
 vless://a3bfbd98-480d-452e-aead-a9dfcf3532a4@151.101.66.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=chde.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://auto@104.25.254.4:2087?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev/?ed=2560&host=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-Afv2Ray@re.iranfastfod.ir:8443?security=reality&headerType=none&type=tcp&sni=www.speedtest.net#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
@@ -284,5 +272,17 @@ vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&s
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-teldIGIv2-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://%44%49%47%49%56%32%52%41%59@77-Join.V2RayTzz.sbs:2052?Telegram=@V2RayTz,@V2RayTz&path=/tm%2dDig%69v2-%5f_te%6cdIG%49v2_%5f-DI%47iv&security=none&encryption=none&host=www%2espe%65dte%73t.n%65t.f%74p.d%65bia%6e.or%67.ww%77.di%67ika%6ca.c%6fm.c%6coud%66lar%65.co%6d.fa%72sr0%69d.i%72.&type=ws#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://%44%49%47%49%56%32%52%41%59@78-Join.V2RayTzz.sbs:2052?Telegram=@V2RayTz,@V2RayTz&path=/tm%2dDig%69v2-%5f_te%6cdIG%49v2_%5f-DI%47IV&security=none&encryption=none&host=www%2ewar%7aesh%33.co%6d.ft%70.de%62ian%2eorg%2edig%69kal%61.or%67.ww%77.sp%65edt%65st.%6eet.%63lou%64fla%72e.c%6fm.p%61r31%67ame%73.ir%2e&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-teldIGIv2-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Goshi3lamsi.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 
 
