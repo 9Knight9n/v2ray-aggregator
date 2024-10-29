@@ -142,18 +142,6 @@ vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&securit
 vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 
 
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.youtube.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=EMPTY HOST#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=www.callofduty.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.facebook.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-
-
 vless://a3bfbd98-480d-452e-aead-a9dfcf3532a4@151.101.66.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=chde.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://auto@104.25.254.4:2087?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev/?ed=2560&host=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-Afv2Ray@re.iranfastfod.ir:8443?security=reality&headerType=none&type=tcp&sni=www.speedtest.net#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
@@ -284,5 +272,17 @@ vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?encryption=none&se
 vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?encryption=none&security=tls&sni=SHAh-9Aq.PAGes.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ShAh-9aQ.PaGEs.DEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?encryption=none&security=tls&sni=ArGodev11222.PaGes.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=argodev11222.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?encryption=none&security=tls&sni=SHAh-9Aq.PAGes.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ShAh-9aQ.PaGEs.DEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+vless://9199963a-7734-4ed0-e455-9d68b85e7863@104.17.148.22:8880?security=none&type=ws&sni=ch.我的名字伊斯梅洛.site.&path=/melo/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@44.244.21.125:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2UDhzbkRhdGcwOTdjMTlBM2VZUGpV@51.120.10.54:4567#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@77.247.108.24:990#👉🆔 @v2ray_configs_pool📡🇧🇿Belize
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://dcd578f2-6a50-4ad4-a96e-4f73ec294591@speedtest-fr5.gcore.com:80?type=httpupgrade&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=qwe.com&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://dcd578f2-6a50-4ad4-a96e-4f73ec294591@speedtest-fr5.gcore.com:80?type=httpupgrade&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=qwe.com&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@3.11.29.111:22222?type=tcp&sni=trojan.burgerip.co.uk&allowInsecure=1http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://6babb657-1524-43bb-b421-11bda27bc9de@91.107.175.100:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=smart.titimoji-f6.fun#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 
 
