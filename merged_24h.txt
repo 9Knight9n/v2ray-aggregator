@@ -49,9 +49,6 @@
 
 
 
-
-
-
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://c7ef07fd-b75c-4036-95cb-aac2dfb197d1@www.speedtest.net:2052?path=%2F%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn%3Fed%3D2052&security=none&encryption=none&host=a.edkeudjgu4894.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -122,5 +119,17 @@ vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2FTelegram
 vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=purlitefastest.pages.dev&type=ws&sni=purlitefastest.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=6b700e9b.bpb-worker-panel-9r9.pages.dev&type=ws&sni=6B700E9B.BPB-WORKEr-PAnel-9r9.PAGeS.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.211.119:2083?security=tls&sni=PPal03.YoSIf-jAhriEl.wOrkERS.dev&type=ws&host=PPAl03.yosIf-jaHriel.WORKerS.DeV&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇧🇿Belize
+
+
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.21.54:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@162.159.44.205:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@16.170.19.234:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://auto@104.20.21.135:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.21.54:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.17.178:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.21.97:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.21.190:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 
 
