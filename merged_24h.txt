@@ -19,9 +19,6 @@
 
 
 
-
-
-
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://c7ef07fd-b75c-4036-95cb-aac2dfb197d1@www.speedtest.net:2052?path=%2F%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn%3Fed%3D2052&security=none&encryption=none&host=a.edkeudjgu4894.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -212,5 +209,17 @@ vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2FTelegram
 vless://ffe42010-fe17-47c5-b0e2-c508156a1c8b@ipcloudflaretamiz.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vipfast_7.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://1c5aa689-b879-4cf2-953a-d3bff35db893@www.speedtest.net:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=www.felafel.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vmess://eyJhZGQiOiAiMTk4LjIuMjM0Ljk5IiwgInYiOiAiMiIsICJwb3J0IjogMzk3NzEsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
+
+
+vless://TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arazekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1ac8cc99-4347-4500-8478-78d142fdf7f0@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@icook.hk:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=tnetplus-1wc.pages.dev&fp=randomized&type=ws&sni=mobilesignal-1wc.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arazekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9a2df380-742c-5831-f342-6e9c7829afb8@5.160.47.71:443?security=tls&sni=office1001.avaoffice.cloud&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arazekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9a2df380-742c-5831-f342-6e9c7829afb8@5.160.47.71:443?security=tls&sni=office1001.avaoffice.cloud&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 
 
