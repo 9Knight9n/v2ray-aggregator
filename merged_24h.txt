@@ -34,9 +34,6 @@
 
 
 
-
-
-
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://c7ef07fd-b75c-4036-95cb-aac2dfb197d1@www.speedtest.net:2052?path=%2F%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn------%40free1_vpn%3Fed%3D2052&security=none&encryption=none&host=a.edkeudjgu4894.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -167,5 +164,17 @@ vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&s
 vless://V2RAXX--@funnelytics.io:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://f6687498-6b58-4ba2-d0d0-8cdb414c7de0@Zmaoz.Faculty.UcdavIS.Edu:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=meloch-fin.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.UcdavIS.Edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@funnelytics.io:8443?type=grpc&serviceName=Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG&mode=multi&security=tls&encryption=none&path=/%54e%6ce%67ra%6d,%56%50N%43%55%53T%4fM%49%5a%45%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=%6aoin.bede.%56%50N%43%55%53T%4fM%49%5a%45.www.speedtest.net.Powerfullserver.de&fp=chrome&type=ws&sni=%6aoin.bede.%56%50N%43%55%53T%4fM%49%5a%45.www.speedtest.net.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+vless://fe3c9447-a656-4010-d4a3-77f406ac4aaf@151.101.2.216:80?type=ws&path=/@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY%3Fed%3D2048&host=speedtestv2.com&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4013a801-9548-4e1d-a4e5-2bf0a3f0ca41@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f604ce84-a1e8-477e-8cd5-279a1fa3134a@162.159.138.178:8080?security=none&type=httpupgrade&host=2sedkfjeuixijd0ew9d1.2sedkfjeuixijd0ew9dvkcxoisiek11.blog&path=%2F%3Fed%3D8080#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4ce1f615-a341-4832-ba2e-0cd8858539d9@151.101.194.219:443?security=tls&sni=speedtest.net&type=tcp&alpn=h3&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.157.40.95:9102#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@190.93.247.155:8443?security=tls&sni=join.bede.VPN%43%55%53%54OMIZE.www.speedtest.net.Powerfullserver.de&type=ws&host=join.bede.VPN%43%55%53%54OMIZE.www.speedtest.net.Powerfullserver.de&path=%2FTelegram%2CVPN%43%55%53%54OMIZE%3Fed%3D2480&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 
 
