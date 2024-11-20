@@ -1,15 +1,3 @@
-vless://1aa7bb00-3863-4151-bc71-940c75bf094b@www.speedtest.net:443?encryption=none&security=tls&sni=bIa-dAily-confIgs.paGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://80772220-3e7d-5f06-ae29-96672b8fa6df@speedtest.net:80?host=ELiV2RAY-JOIN.COM.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://5523be08-7a75-4441-90e8-c53e61ba466d@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://1aa7bb00-3863-4151-bc71-940c75bf094b@172.66.47.146:8443?encryption=none&security=tls&sni=bIA-dAILY-cONfIGs.PAGES.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bia-daily-configs.pages.dev&path=%2FS8hbexPGCH11S6cm%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://37b64d69-15e3-4909-a10e-73a00ffe0f93@151.101.3.8:80?encryption=none&security=none&type=ws&host=bia-daily-configs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-Channel%3Fed%3D80&host=SvnTeam.Telegram.1.Ru&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://1aa7bb00-3863-4151-bc71-940c75bf094b@172.66.44.110:443?encryption=none&security=tls&sni=BIa-Daily-coNfIGS.pagEs.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D8080#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://1aa7bb00-3863-4151-bc71-940c75bf094b@172.66.47.146:443?encryption=none&security=tls&sni=bIa-daILy-CoNFigS.PAgEs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D1024#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://37b64d69-15e3-4909-a10e-73a00ffe0f93@167.82.61.77:443?encryption=none&security=tls&alpn=h3%2Ch2&fp=random&allowInsecure=1&type=ws&host=bia-daily-configs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://1aa7bb00-3863-4151-bc71-940c75bf094b@104.18.37.146:8443?encryption=none&security=tls&sni=BiA-DAILY-coNfIGs.pAgES.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D1048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-
-
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FiISpbIBFpNsIQRTW%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=PpAL03.mr-kOBy-gRaHam.WoRKErS.DeV&fp=randomized&type=ws&sni=pPal03.mR-koBY-GraHam.wOrkERS.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.14.85:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=random&type=ws&sni=hagh.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
@@ -296,5 +284,17 @@ vmess://eyJhZGQiOiAiMTM2LjI0My4xMTAuMjI0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443/?type=tcp&security=tls&sni=customer-77-91-72-197.stark-industries.solutions&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUkc2SEt2RFlwM01meFBVZDRCQldm@37.221.126.186:54335#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+
+
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.65:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&fp=randomized&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2266e5c0-1971-49aa-a454-e10a46ea0ee2@151.101.3.8:80?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=none&encryption=none&host=api.nhl.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.207:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2266e5c0-1971-49aa-a454-e10a46ea0ee2@151.101.3.8:80?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=none&encryption=none&host=api.nhl.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://2266e5c0-1971-49aa-a454-e10a46ea0ee2@151.101.3.8:80?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=none&encryption=none&host=api.nhl.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 
 
