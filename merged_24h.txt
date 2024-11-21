@@ -286,3 +286,15 @@ vless://a68a3333-ee36-481b-abec-289f5eca17f1@104.18.165.38:443?path=%2FTelegram-
 vless://01842c9c-d03c-4765-a950-5da4b096ee74@104.17.214.22:443?encryption=none&security=tls&sni=SAEEd-9j2.pAGEs.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=SaEED-9j2.paGes.deV&path=%2FTelegram-%40proxy_mtm-Telegram-%40proxy_mtm-Telegram-%40proxy_mtm%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 
 
+vless://2dcd6d74-5815-456a-85b4-16923756e2d0@zula.ir:8880?path=%2F&security=none&encryption=none&host=join-daily-configs.broken-dreams.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiMTAzLjIxNS4yMTguMjIyIiwgImFpZCI6ICIxIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIjEwMy4yMTUuMjE4LjIyMiIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiMTAzLjIxNS4yMTguMjIyIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3VHVya2V5In0=
+vless://a68a3333-ee36-481b-abec-289f5eca17f1@104.18.165.38:443?path=%2FTelegram-VPNCUSTOMIZE%3Fed%3D2048&security=tls&encryption=none&host=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org&type=ws&sni=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a68a3333-ee36-481b-abec-289f5eca17f1@104.18.165.38:443?path=%2FTelegram-VPNCUSTOMIZE%3Fed%3D2048&security=tls&encryption=none&host=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org&type=ws&sni=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.0.51:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.241.54.183:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.121.38:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://2dcd6d74-5815-456a-85b4-16923756e2d0@172.66.47.146:8880?path=%2F&security=none&encryption=none&host=join-daily-configs.broken-dreams.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+
+
