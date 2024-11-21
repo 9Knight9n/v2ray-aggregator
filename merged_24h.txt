@@ -1,15 +1,3 @@
-vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@r.iphone-shopp.ir:5643?mode=gun&security=reality&Telegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://4324423e-23ed-421f-be18-5fe56bcb010f@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://c1546212-f0d3-4b8d-b350-1c644a2e3c2b@www.speedtest.net:8080?path=%2FG%2Fb4t6hy5n%2F%3Fed%3D80120&security=none&Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@r.iphone-shopp.ir:20543?security=none&Telegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@WWW.SPEEDTEST.NET:2096?mode=gun&security=tls&Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@WWW.SPEEDTEST.NET:2096?mode=gun&security=tls&Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@r.iphone-shopp.ir:5643?mode=gun&security=reality&Telegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-
-
 vless://c7efc374-0f93-47a5-8559-ce25a37a60d2@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
@@ -296,5 +284,17 @@ trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxjphy.yuwenle.vip:3333/?type=tcp&
 trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxkrvol.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇫🇷France
 trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@bvjp.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
 trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@bvjp.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.177.47.105:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://V2RAXX-@www.speedtest.net:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://01dad6ef-3303-4fa8-abc4-8bf29f9809d3@VPNCSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed&security=none&encryption=none&host=api.nhl.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=dachibodoberi22m.net&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4b497bae-8499-45a8-ae48-d0f46e8014b2@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=dachibodoberim.net&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3b05fc15-0b19-4362-b7a3-13ac3cac1350@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arddekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://01dad6ef-3303-4fa8-abc4-8bf29f9809d3@VPNCSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed&security=none&encryption=none&host=api.nhl.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://90054f56-d8a7-44f0-8b19-79d46b74031f@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3araekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=dac33hibodoberim.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4b497bae-8499-45a8-ae48-d0f46e8014b2@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=dachibodoberim.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 
 
