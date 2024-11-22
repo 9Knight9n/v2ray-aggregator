@@ -1,15 +1,3 @@
-vless://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443/?type=ws&encryption=none&host=pardazeshvpn-tg104.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg104.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqRHRUaFltQ3lnUEFUeFdCVEpaVXFH@150.241.102.95:21771#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://e3822343-1491-430d-8d56-cb39456207e4@nufilter.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=dac33hibodoberim.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096/?type=grpc&encryption=none&sni=dash.cloudflare.com&fp=firefox&security=reality&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-vless://e3822343-1491-430d-8d56-cb39456207e4@nufilter.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=dac33hibodoberim.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://92610402-8d8c-43ff-895b-7b3c938ddfe0@5.182.87.141:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stackoverflow.com&alpn=http%2F1.1&fp=random&security=reality&pbk=LoNYZgZ6WvqA2qkrVwkz4RHWnjoFTzw4h59F0GeAqh0&sid=a7c159#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vmess://eyJhZGQiOiAiMTM2LjI0My4xMTAuMjI0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzZTNmMzRhNS01Y2IxLTRmZjYtYjcyNS04OGNlMjcyODRlOTEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjEwMCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhR2VybWFueSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443/?type=tcp&security=tls&sni=customer-77-91-72-197.stark-industries.solutions&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUkc2SEt2RFlwM01meFBVZDRCQldm@37.221.126.186:54335#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-
-
 vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.65:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&fp=randomized&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://2266e5c0-1971-49aa-a454-e10a46ea0ee2@151.101.3.8:80?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=none&encryption=none&host=api.nhl.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
@@ -296,5 +284,17 @@ vless://1250c0dd-856e-4cb9-b254-5d8e55419fed@57.128.123.50:2096?path=%2F&securit
 vless://0515f7c7-d011-4345-933b-a134936bf165@www.speedtest.net:8080?path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&encryption=none&security=none&type=ws&host=maznet---_-_---maznet2.iMamhussaIn.sbs.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://deac86ca-5d50-4c27-9989-cc7cddac248d@45.67.32.147:14875?security=reality&encryption=none&pbk=2mte9DEeo0OwNppy36bIfMqAXL4yLiFbhDqOGXu8XVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e34371db#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
 vless://0515f7c7-d011-4345-933b-a134936bf165@www.speedtest.net:8080?path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&encryption=none&security=none&type=ws&host=maznet---_-_---maznet2.iMamhussaIn.sbs.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arddekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Berim3arazekar.net&fp=firefox&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3araekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://651d818e-4d5c-4180-a295-1db7a8fabc71@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@nodesh.milus.site:40404#👉🆔 @v2ray_configs_pool📡🇨🇳China
+ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@nodesh.milus.site:40501#👉🆔 @v2ray_configs_pool📡🇨🇳China
+ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@nodesh.milus.site:40503#👉🆔 @v2ray_configs_pool📡🇨🇳China
+ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@nodesh.milus.site:40504#👉🆔 @v2ray_configs_pool📡🇨🇳China
+vless://47f78a35-9378-4ba8-97d3-959cbaa36050@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc1.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6d154bf6-d60c-11ee-aaa8-00505603e70d@104.21.49.18:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-fr-1.brocdn.com&fp=chrome&type=ws&sni=st-fr-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 
 
