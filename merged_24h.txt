@@ -1,15 +1,3 @@
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.G.6.bahrane.iR.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://TELEGRAM-NUFiLTER@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Berim3arazekar.net&fp=firefox&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://TELEGRAM-NUFiLTER@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Berim3arazekar.net&fp=firefox&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://e21b205e-fd61-4140-9112-e7570f62de63@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jobinja.pages.dev&fp=firefox&type=ws&sni=pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://e21b205e-fd61-4140-9112-e7570f62de63@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://e21b205e-fd61-4140-9112-e7570f62de63@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://e21b205e-fd61-4140-9112-e7570f62de63@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jobinja.pages.dev&fp=firefox&type=ws&sni=pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://e21b205e-fd61-4140-9112-e7570f62de63@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://e21b205e-fd61-4140-9112-e7570f62de63@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.G.6.bahrane.iR.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-
-
 trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxhkhy.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
 trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@alisg.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.G.6.bahrane.iR.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -284,5 +272,17 @@ vless://41ed1447-0623-4e86-b159-aee5a6f67a1c@157.90.236.4:29032?security=none&en
 vless://87124898-17ae-46cf-97b6-6491ffe1fab6@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 vless://a8d520bb-92db-4c7e-9b5e-081c7cb7f1da@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeee.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+vless://251780c1-1501-43b3-be2a-d144a20d479a@104.18.42.19:443?security=tls&sni=hdfy5persiaserverc1.afsharidempire.uk&alpn=http/1.1&fp=chrome&type=httpupgrade&path=/VM9JThTKh0lWQPcIDB&host=hdfy5persiaserverc1.afsharidempire.uk&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://575543f3-f08e-426d-9230-1ddca047de30@188.245.60.248:2020?security=&type=tcp&headerType=http&host=playstation.com&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://5dc3ecda-24a8-474d-9ec5-f3767c25f433@172.66.47.146:8880?security=&type=httpupgrade&path=/&host=join-daily-configs.broken-dreams.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://575543f3-f08e-426d-9230-1ddca047de30@188.245.60.248:2020?security=&type=tcp&headerType=http&host=playstation.com&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@179.43.144.10:8000?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+vless://5dc3ecda-24a8-474d-9ec5-f3767c25f433@172.66.47.146:8880?security=&type=httpupgrade&path=/&host=join-daily-configs.broken-dreams.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5dc3ecda-24a8-474d-9ec5-f3767c25f433@104.21.69.44:8880?security=&type=httpupgrade&path=/&host=join-daily-configs.broken-dreams.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5dc3ecda-24a8-474d-9ec5-f3767c25f433@104.21.69.44:8880?security=&type=httpupgrade&path=/&host=join-daily-configs.broken-dreams.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0fe912e9-2d60-4e65-bb63-bff77251274e@172.66.213.38:2087?security=tls&sni=g4.ferdowsi.shop&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5c815a53-d967-43ae-8cb0-b078682c2895@188.245.67.23:50875?security=reality&sni=business.stackoverflow.com&fp=chrome&pbk=3TrvJr0BfbCPdv-e4LZcUBotYcuifQZH3YER8FIZcS4&sid=a51aabe09367&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 
 
