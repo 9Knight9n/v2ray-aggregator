@@ -1,15 +1,3 @@
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxhkhy.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@alisg.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.G.6.bahrane.iR.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxhkvol.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@alihk.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@akjp.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxjphy.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxkrvol.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@bvjp.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@bvjp.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.177.47.105:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://V2RAXX-@www.speedtest.net:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://01dad6ef-3303-4fa8-abc4-8bf29f9809d3@VPNCSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed&security=none&encryption=none&host=api.nhl.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
@@ -296,5 +284,17 @@ vless://2843e967-aa72-4424-997e-2dcafacaddec@NUFiLTER.fastly80-3.hosting-ip.com:
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl3.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl3.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl3.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ2LjM4LjE0Ny4xMzgiLCAicG9ydCI6ICI2MDYwIiwgImlkIjogIjY0ZTA5Zjc3LWQ0YTMtNDEzOC05Nzk3LTM3ODQyNWFmNmVlZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjczIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3SXJhbiJ9
+vless://aacbcab-cbaa-baca-cbda-abbbcaacacbc@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://bbcaaac-acba-caab-dcab-ccababbcbaac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://bbcaaac-acba-caab-dcab-ccababbcbaac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://aacbcab-cbaa-baca-cbda-abbbcaacacbc@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.20.148:443?security=tls&sni=9b446b2C.AEstINGuPloaD.paGEs.DEv&type=ws&host=9b446b2c.aestingupload.pages.dev&fp=chrome&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.103:3306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@51.44.134.177:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=joiNv2ngFaST.PAgES.DeV&type=ws&sni=JOINv2nGFast.PagEs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9866995e-7225-4919-8de8-19a3f941c4d4@hajlab.ucdavis.edu:443?type=ws&host=downloadlynet.ir.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&security=tls&fp=firefox&sni=hajlab.ucdavis.edu&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 
 
