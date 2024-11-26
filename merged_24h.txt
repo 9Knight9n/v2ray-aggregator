@@ -286,3 +286,15 @@ vless://e5f0a1d3-a236-43b5-9b43-36265e73f1fe@185.146.173.58:8080?path=%2Fservern
 vless://aa74c9ab-5ef1-44c6-b907-574f25b0c64e@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 
 
+vless://06aaf647-3c1d-4bd8-bdc5-5f155495869d@94.130.99.166:10928?security=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://06aaf647-3c1d-4bd8-bdc5-5f155495869d@94.130.99.166:10928?security=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://38720814-070b-48f9-b5da-95cb5f13baaa@104.17.147.22:2095?security=none&type=ws&host=kala-it-14ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaaaa55391eaaaaaaabaaeaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.AirEacoNdicionadoMurcia.Nl.nanvaiiisaeed.ir.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://06aaf647-3c1d-4bd8-bdc5-5f155495869d@94.130.99.166:10928?security=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@52.1.37.135:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://38720814-070b-48f9-b5da-95cb5f13baaa@104.17.147.22:2095?security=none&type=ws&host=kala-it-14ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaaaa55391eaaaaaaabaaeaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.AirEacoNdicionadoMurcia.Nl.nanvaiiisaeed.ir.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9be0950e-a7b3-5e38-83b4-217ccc4488a0@199.232.3.80:443?security=tls&allowInsecure=1&host=ELIV2RAY-JOIN.COM&fp=qq&type=ws&sni=ELIV2RAY-JOIN.COM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0e921714-b28c-4ffd-a371-eb486bc5a1ce@40.160.11.136:2053?path=%2FGcore.com%3Fed%3D443&security=tls&encryption=none&type=ws&sni=test.mrkian.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0e921714-b28c-4ffd-a371-eb486bc5a1ce@40.160.11.136:2053?path=%2FGcore.com%3Fed%3D443&security=tls&encryption=none&type=ws&sni=test.mrkian.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://958c46c9-54ca-46fd-86f5-e8dc4e7a0ded@199.232.7.29:443?path=%2FVLESS%3Fed%3D80&security=tls&allowInsecure=1&host=EleNa-TrUmP.cOm&fp=qq&type=ws&sni=EleNa-TrUmP.cOm#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+
+
