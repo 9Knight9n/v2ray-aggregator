@@ -1,15 +1,3 @@
-trojan://WOeXShhJpL@104.17.8.124:443?path=%2Fjuzigongyi&security=tls&host=10jzus.zdzdzd.xyz&type=ws&sni=10jzus.zdzdzd.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.21.69.44:443?path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=tg.cmliussss.us.kg&fp=randomized&type=ws&sni=tg.cmliussss.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.229.248:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://5104ca9f-1927-44ec-b9e2-c6167609de7b@172.66.46.213:443?path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&security=tls&encryption=none&host=speedtest1.svgspeedtest.net&type=ws&sni=speedtest1.svgspeedtest.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://5104ca9f-1927-44ec-b9e2-c6167609de7b@172.66.46.213:443?path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&security=tls&encryption=none&host=speedtest1.svgspeedtest.net&type=ws&sni=speedtest1.svgspeedtest.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://WOeXShhJpL@104.17.8.124:443?path=%2Fjuzigongyi&security=tls&host=10jzus.zdzdzd.xyz&type=ws&sni=10jzus.zdzdzd.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.225:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://auto@104.21.69.44:443?path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=tg.cmliussss.us.kg&fp=randomized&type=ws&sni=tg.cmliussss.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-
-
 vless://ad9ae42c-6858-4635-b93d-8bec2169e569@151.101.2.219:80?path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN%3Fed%3D2048&security=none&encryption=none&host=snapp.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYlk2PXpHdUZs@150.241.95.63:37774#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://4518635d-b925-4fa1-dc2f-3295afbd9704@www.speedtest.net:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -296,5 +284,17 @@ vless://ef4bbe53-6c12-4577-9c2a-a10a456fa158@www.speedtest.net:8880?path=@Maznet
 vless://ddedd166-9183-40cc-a7af-8344c3b5a23b@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://ddedd166-9183-40cc-a7af-8344c3b5a23b@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://ef4bbe53-6c12-4577-9c2a-a10a456fa158@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+trojan://telegram-id-privatevpns@54.154.77.229:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@51.44.124.22:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
+vmess://eyJhZGQiOiAiMTA0LjE2LjYwLjgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAieHh4eHg3M2NyZWFtLTA3M2N4eHh4eHh4eC5jb2dvbmk3NzQ4LndvcmtlcnMuZGV2IiwgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvb2JkaWkuY2ZkL2xpbmt3cyIsICJwb3J0IjogIjIwODMiLCAic2N5IjogImF1dG8iLCAic25pIjogInh4eHh4NzNjcmVhbS0wNzNjeHh4eHh4eHguY29nb25pNzc0OC53b3JrZXJzLmRldiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
+vless://347c666a-f909-4394-f5b2-715e914db254@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&host=meloch-de.com&path=/@%6delo%762ray/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&security=tls&fp=firefox&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3fedbd26-b4da-440e-9f7c-004d2463caec@medium.com:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&security=tls&encryption=none&alpn=h2,http/1.1&host=DisVpn.us.kg&fp=randomized&type=ws&sni=DisVpn.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3fedbd26-b4da-440e-9f7c-004d2463caec@zula.ir:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&security=tls&encryption=none&alpn=h2,http/1.1&host=DisVpn.us.kg&fp=randomized&type=ws&sni=DisVpn.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://347c666a-f909-4394-f5b2-715e914db254@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&host=meloch-de.com&path=/@%6delo%762ray/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&security=tls&fp=firefox&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3fedbd26-b4da-440e-9f7c-004d2463caec@medium.com:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&security=tls&encryption=none&alpn=h2,http/1.1&host=DisVpn.us.kg&fp=randomized&type=ws&sni=DisVpn.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYlk2PXpHdUZs@150.241.95.63:37774#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 
 
