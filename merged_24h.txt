@@ -61,12 +61,6 @@
 
 
 
-
-
-
-
-
-
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.70.99:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://Parsashonam-120@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://Channel-%40ExpressVPN_420@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Yaabanlabdolah.net&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -89,5 +83,17 @@ vmess://eyJhZGQiOiAiMTQ5LjcuMTYuNzMiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAz
 vless://5ab44197-b3dd-42d4-95da-61b5a9965b5e@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://49d65fc2-8413-4d97-9303-ad34f0bdeef4@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&host=meloch-de.com&path=/@%6delo%762ray/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&security=tls&fp=firefox&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://49d65fc2-8413-4d97-9303-ad34f0bdeef4@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&host=meloch-de.com&path=/@%6delo%762ray/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&security=tls&fp=firefox&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+
+
+vless://Joining--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=mahex.com&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.21:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@16.16.10.106:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://Joinin--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gooshishop.com&type=ws&sni=live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://49d65fc2-8413-4d97-9303-ad34f0bdeef4@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&host=meloch-de.com&path=/@%6delo%762ray/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&security=tls&fp=firefox&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://49d65fc2-8413-4d97-9303-ad34f0bdeef4@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&host=meloch-de.com&path=/@%6delo%762ray/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&security=tls&fp=firefox&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://56b4ce36-ea2e-4415-a6c8-e461589184cc@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl239.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 
 
