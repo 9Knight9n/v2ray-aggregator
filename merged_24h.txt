@@ -286,3 +286,15 @@ vless://7411ab59-5fac-41bf-947a-0163ea82d568@185.146.173.39:443?type=splithttp&h
 trojan://bpb-trojan@www.vpslook.com:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 
 
+vless://1005238f-c35f-49dc-b49f-b15be1da413e@199.232.255.25:443?encryption=none&security=tls&sni=JOiN--E-L-i-V-2-R-A-Y.io&fp=chrome&allowInsecure=1&type=ws&host=JOiN--E-L-i-V-2-R-A-Y.io&path=%2FTelegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://1005238f-c35f-49dc-b49f-b15be1da413e@199.232.125.59:443?encryption=none&security=tls&sni=JOiN--E-L-i-V-2-R-A-Y.io&fp=qq&allowInsecure=1&type=ws&host=JOiN--E-L-i-V-2-R-A-Y.io&path=%2FTelegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80?encryption=none&security=none&type=ws&host=IRANINGOAT2.IR&path=%2FRsAMasAPMX5yb1YZ%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1005238f-c35f-49dc-b49f-b15be1da413e@199.232.255.25:443?encryption=none&security=tls&sni=JOiN--E-L-i-V-2-R-A-Y.io&fp=chrome&allowInsecure=1&type=ws&host=JOiN--E-L-i-V-2-R-A-Y.io&path=%2FTelegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://1005238f-c35f-49dc-b49f-b15be1da413e@199.232.255.25:443?encryption=none&security=tls&sni=JOiN--E-L-i-V-2-R-A-Y.io&fp=chrome&allowInsecure=1&type=ws&host=JOiN--E-L-i-V-2-R-A-Y.io&path=%2FTelegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80?encryption=none&security=none&type=ws&host=IRANINGOAT2.IR&path=%2FRsAMasAPMX5yb1YZ%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=bpb-hd.aaronchin.xyz&alpn=h3&fp=randomized&type=ws&host=bpb-hd.aaronchin.xyz&path=%2Ftr%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+
+
