@@ -1,15 +1,3 @@
-vless://ddcdd97d-7854-498d-8a37-f8bc03e7b72c@212.98.224.229:8443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-vless://743be883-3d10-4f41-af55-14ad4973feeb@speedtest.net:80?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=XpnTeam.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://932ea1e5-7d88-463d-8bb4-63408e173e9d@speedtest.net:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=Tehranc2.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://AB_841-2@germany.ab841vpn.ip-ddns.com:53583?mode=gun&security=none&encryption=none&type=grpc&serviceName=Join-%40BugFreeNet-AB841#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vmess://eyJhZGQiOiAiMTQyLjQuMTA4LjEzOSIsICJ2IjogIjIiLCAicG9ydCI6IDM4MDA3LCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvcGF0aC8wMjExMDEyNTI0MTQiLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://108825ef-c84e-4350-abda-ce3872c754e1@87.107.10.37:2062?security=none&encryption=none&host=bwm.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://9e701b20-7257-440e-b1ca-efe74f1652b0@159.223.221.245:443?path=%2FBARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN%3Fed%3D443&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-
-
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@69.50.95.191:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.95.191:5600#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://738fbb8d-bd2d-402a-b7bc-e63ad84fb107@san.dornagamesco.ir:1621?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
@@ -185,5 +173,27 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.99.61:22222?path=/telegram-ch
 
 
 
+
+
+vless://b9509f1d-fed1-49bd-acd4-038ad13c81e7@www.speedtest.net:443?path=%2Fv2line-chicago-unitedstates-vl-ws-tls-advanced&security=tls&encryption=none&host=86278058785885367257976103254902.v2line.net&type=ws&sni=86278058785885367257976103254902.v2line.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://b9509f1d-fed1-49bd-acd4-038ad13c81e7@www.speedtest.net:443?path=%2Fv2line-chicago-unitedstates-vl-ws-tls-advanced&security=tls&encryption=none&host=86278058785885367257976103254902.v2line.net&type=ws&sni=86278058785885367257976103254902.v2line.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3a15a346-2f6f-41bc-ad0c-a885aec3002a@www.speedtest.net:443?path=%2Fv2line-helsinki-finland-vl-ws-tls-advanced&security=tls&encryption=none&host=46771119909676129223555549792065.v2line.net&type=ws&sni=46771119909676129223555549792065.v2line.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6cf0239b-b83e-46c9-aed1-bb61084b6061@www.mizbanonline.icu:4146?headerType=http&host=&path=%2F&security=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://v2rayvpn___official@www.speedtest.net:2052?path=%2Fwww.zula.ir%3Fed%3D2052&security=none&encryption=none&host=Bo2bo2.bia2bax.shoP.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.181.10:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.169:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=%2Fwebsocket%23%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=%2Fwebsocket%23%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.169:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=%2Fwebsocket%23%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=%2Fwebsocket%23%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://e3d88bae-d1ef-420a-b23a-e53a4d819dcc@104.17.147.22:443?security=tls&sni=16833408090632354836285938102432.v2line.net&type=ws&host=16833408090632354836285938102432.v2line.net&path=%2Fv2line-istanbul-turkey-vl-ws-tls-advanced#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 
 
