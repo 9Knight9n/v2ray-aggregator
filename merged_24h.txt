@@ -1,25 +1,3 @@
-vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@151.101.194.133:80?path=%2Ftelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%3Fed%3D80&security=none&encryption=none&host=1-2943.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@151.101.194.133:443?path=%2Ftelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=4.drf2ewf.ir&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://aa6f3d6e-f835-46ab-e35e-71828493ec4f@clearcreditrepair.com:443?type=ws&host=www.meloammn.ir&path=/melo/ws?e#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://aa6f3d6e-f835-46ab-e35e-71828493ec4f@clearcreditrepair.com:443?type=ws&host=www.meloammn.ir&path=/melo/ws?e#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@162.159.153.2:80?path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751&security=none&encryption=none&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@151.101.2.216:80?type=ws&host=Mahxraytdep.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@151.101.2.216:80?type=ws&host=Mahxraytdep.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://5e454ad1-f158-4608-a51f-5f8700964e2e@irc6.vpsland.site:39357?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.143.47:22222?encryption=none&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.147:443?encryption=none&security=tls&sni=ly.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.194.228:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitTNeWz.NeT&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@44.244.25.243:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ni4xMjAiLCAiYWlkIjogMCwgImhvc3QiOiAiaXAxOC42OTI5MTk4Lnh5eiIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwgInBvcnQiOiAyMDgyLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjdDb3N0YSBSaWNhIn0=
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.237.72.225:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.33.189.33:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOC4xMTQuMjM0IiwgInBvcnQiOiAiMjA5NSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImMxNy42MDE2NzI1Lnh5eiIsICJ0bHMiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRXRQcW42SFlqVU5jSG9oTGZVcEZRd25makNDUTVtaDFtSmRFTUNCdWN1V1o5UDF1ZGtSS0huVnh1bzU1azFLWHoyRm82anJndDE4VzY2b3B0eTFlNGJtMWp6ZkNmQmI@84.19.31.63:50841#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.31.40:443#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-
-
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.216.74.178:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.202.63.77:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://460cbc68-b655-4fb3-df58-9e64a82e325f@104.17.148.22:8880?security=none&type=ws&sni=ch.我的名字伊斯梅洛.site.&path=/melo/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -546,5 +524,27 @@ vless://6b855ef7-2b04-446c-9006-497de927a4e1@hajlab.ucdavis.edu:443?path=%2F%40X
 trojan://blue2024@104.16.107.194:443?path=%2F%3Fed%3D2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@158.180.231.216:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
 vless://787cbde8-126c-4c39-93f7-56cfe44527c0@six.app:443?type=ws&host=doWnloadlynEt.iR.&path=/%40#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://2d5d4230-10e2-4ee9-afe5-a55c20d2cb3b@199.232.210.133:443?path=de%3Fed%3D1048&security=tls&encryption=none&host=didnegar.com&fp=firefox&type=ws&sni=redbrain.shopping#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://47e9b63c-6a86-4ae6-acd0-4361f475f53a@65.109.176.108:2053?mode=auto&path=%2Ftest%3Fed%3D2560&security=none&encryption=none&type=xhttp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://f1a5a0c6-e356-4daf-bbb5-2af474997b11@crazy.punsith.online:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://f1a5a0c6-e356-4daf-bbb5-2af474997b11@crazy.punsith.online:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=m.viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://f1a5a0c6-e356-4daf-bbb5-2af474997b11@crazy.punsith.online:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=store.steampowered.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://f1a5a0c6-e356-4daf-bbb5-2af474997b11@crazy.punsith.online:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=static.whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://f1a5a0c6-e356-4daf-bbb5-2af474997b11@crazy.punsith.online:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=m.facebook.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://f1a5a0c6-e356-4daf-bbb5-2af474997b11@crazy.punsith.online:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=telegram.me#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://f1a5a0c6-e356-4daf-bbb5-2af474997b11@crazy.punsith.online:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=m.viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=www.pubgmobile.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=m.viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=google.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=www.pubgmobile.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 
 
