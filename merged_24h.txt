@@ -1,15 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI%3D@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://61f58710-6aa9-4945-9708-58c75141db2e@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.131:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@62.12.116.66:990#👉🆔 @v2ray_configs_pool📡🇰🇪Kenya
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@23.157.40.101:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-
-
 vless://5745c335-f8bc-4165-947a-afe409efc980@151.101.3.8:80?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM_PROXY_MTM%3Fed%3D8080&security=none&encryption=none&host=Tehran1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://Parsashonam-128@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://96bb4985-ef9a-45dd-9127-386516c64169@151.101.66.228:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitTNeWz.NeT&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
@@ -296,5 +284,17 @@ vless://0c42afca-b950-4cb8-a622-501f5e5a925e@151.101.2.228:80?security=none&type
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 vless://442ac940-bbdd-4044-9b2c-e4e53cbe0055@103.21.244.233:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=little-grass-d3f7az.cijof58321.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://442ac940-bbdd-4044-9b2c-e4e53cbe0055@104.16.197.224:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=little-grass-d3f7az.cijof58321.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+trojan://FuUaWS3YWG@38.175.201.156:2053?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6575a423-2e3d-4c89-9999-48bc1ddb72d2@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&security=none&encryption=none&host=Tehran2.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6575a423-2e3d-4c89-9999-48bc1ddb72d2@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&security=none&encryption=none&host=Tehran2.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f300d87a-22f1-4361-b65f-60ab200679d9@151.101.3.8:80?path=%2FTelegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray%3Fed%3D443&security=none=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&encryption=none&host=Tehranc1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c5b53462-36f6-4e97-b436-08f832ec9c09@151.101.3.8:80?path=%2FTelegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray%3Fed%3D443&security=none=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&encryption=none&host=Tehranc2.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c46a54ff-e736-4a41-9177-00974634a249@151.101.3.8:80?path=%2FTelegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray%3Fed%3D443&security=none=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&encryption=none&host=Tehranc3.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://tell--%5a%45%44%4d%4f%44%45%4f%4e@zmaoz.faculty.ucdavis.edu:443?path=%2F%40%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-TEL-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e%3Fed%3D2048&security=tls&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=isa.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://tell--%5a%45%44%4d%4f%44%45%4f%4e@zmaoz.faculty.ucdavis.edu:443?path=%2F%40%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-TEL-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e%3Fed%3D2048&security=tls&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 
 
