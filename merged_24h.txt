@@ -1,15 +1,3 @@
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?mode=gun&security=reality&encryption=none&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&fp=firefox&type=grpc&sni=dash.cloudflare.com&sid=28f58957#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?mode=gun&security=reality&encryption=none&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&fp=firefox&type=grpc&sni=dash.cloudflare.com&sid=28f58957#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?mode=gun&security=reality&encryption=none&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&fp=firefox&type=grpc&sni=dash.cloudflare.com&sid=28f58957#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg%3D@205.134.180.147:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRHRaJGQxbGN6@150.241.95.63:12271#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-
-
 vless://13fa0037-5480-446b-8885-714e424677fb@104.16.145.82:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=black-wind-7f73lb.jewefe6869.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://13fa0037-5480-446b-8885-714e424677fb@104.16.145.82:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=black-wind-7f73lb.jewefe6869.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-privatevpns@13.42.222.251:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
@@ -284,5 +272,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://d74acf2c-2148-4343-891c-627c4b5d690b@151.101.38.133:443?path=%2FVLESS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=5774.ir&fp=chrome&type=ws&sni=live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 vless://d74acf2c-2148-4343-891c-627c4b5d690b@151.101.38.133:443?path=%2FVLESS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=5774.ir&fp=chrome&type=ws&sni=live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+
+
+vless://87eba133-4818-4c3a-8499-dcba67a29196@185.16.110.30:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=FTP.tehrANSiman.coM.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://87eba133-4818-4c3a-8499-dcba67a29196@185.16.110.30:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=FTP.tehrANSiman.coM.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://66c85596-f209-4660-a900-492f95b31c59@104.17.147.22:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.zula.ir.azaronline.Org%3A&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6d420083-4bb5-4a50-ad4a-44e35da0a26f@151.101.3.8:80?type=ws&path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&host=Tehran2.Org&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://66c85596-f209-4660-a900-492f95b31c59@104.17.147.22:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.zula.ir.azaronline.Org%3A&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://77b3cbba-e6ac-405a-9481-976a0462eab9@104.21.90.60:443?path=%2FqzJMmPJ8AFR7gjhl%3Fed%3D2560&security=tls&encryption=none&host=EsetsecUrITylIceNSE.xksQU.worKErs.dEv&type=ws&sni=ESetSecuriTYLICeNSe.xksQU.woRkeRs.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://77b3cbba-e6ac-405a-9481-976a0462eab9@104.21.90.60:443?path=%2FqzJMmPJ8AFR7gjhl%3Fed%3D2560&security=tls&encryption=none&host=EsetsecUrITylIceNSE.xksQU.worKErs.dEv&type=ws&sni=ESetSecuriTYLICeNSe.xksQU.woRkeRs.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiNzkuMTI3LjIyOS41NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmMlx1ZDgzY1x1ZGRmZE1leGljbyJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 
 
