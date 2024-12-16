@@ -1,15 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://2d37cb6c-3745-4cb1-9633-01c51a7debf1@SR.fastly80-3.hosting-ip.com:80?path=%2F%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://6c8851a9-efe3-4dd3-abf2-43555433372f@151.101.3.8:80?path=%2F%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://TELEGRAM-PROXY_MTM@151.101.2.165:80?path=%2F%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://bm9uZTphYWNiYWJjLWFhYmMtY2JhYS1jZGJhLWNiYmFjYWJjYmNhYQ==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://b99551cb-2d56-404c-aaf2-bcd1faf8bd36@ipcloudflaretamiz.fastly80-2.hosting-ip.com:80?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D1024&security=none&encryption=none&host=vipfast_7.com&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b99551cb-2d56-404c-aaf2-bcd1faf8bd36@151.101.194.133:443?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D1024&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vipfast_7.com&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJhZGQiOiAiMTQ5LjcuMTYuMTc0IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3VW5pdGVkIEtpbmdkb20ifQ==
-vless://SVNTEAM@wWw.SpeedTeSt.Net:2082/?type=ws&path=%2F%3Fed%3D2560&host=JOIN.SVNTEAM.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.SvnTeam.DDNS-IP.nEt&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://SVNTEAM@SvnTeam.fastly80-3.hosting-ip.com:80/?type=ws&path=%2F%3Fed%3D2560&host=join.SVNTEAM.Ru&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-
-
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?mode=gun&security=reality&encryption=none&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&fp=firefox&type=grpc&sni=dash.cloudflare.com&sid=28f58957#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?mode=gun&security=reality&encryption=none&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&fp=firefox&type=grpc&sni=dash.cloudflare.com&sid=28f58957#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?mode=gun&security=reality&encryption=none&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&fp=firefox&type=grpc&sni=dash.cloudflare.com&sid=28f58957#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
@@ -284,5 +272,17 @@ vless://66c85596-f209-4660-a900-492f95b31c59@104.17.147.33:80?path=%2F%3Fed%3D10
 vless://V2RAXX@fastlyipcloudflaretamiz.fast.hosting-ip.com:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2CV2RAXX%3Fed%3D443&security=none&encryption=none&host=V2RAXX.IR&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://66c85596-f209-4660-a900-492f95b31c59@104.17.147.33:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.zula.ir.nl.azaronline.Org%3A&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://66c85596-f209-4660-a900-492f95b31c59@104.17.147.33:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.zula.ir.nl.azaronline.Org%3A&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+vless://87eba133-4818-4c3a-8499-dcba67a29196@185.16.110.30:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=FTP.tehrANSiman.coM.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?path=6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=tls&alpn=http/1.1&host=bangladeshipatri.com&fp=safari&type=ws&sni=bangladeshipatri.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbU9ENXgwOUt5Tk5KNlVTQ1ppUTRSdk4ybFNWUTZqekFFWW12clNMdFJac1NYNWdGNkNmY0VsdlVjdUxsblpE@94.131.96.213:29647#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.91.100.199:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.131:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@142.202.48.105:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXhCMXFkem1lRnJnPQ%3D%3D@150.241.68.171:24064#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d74acf2c-2148-4343-891c-627c4b5d690b@151.101.38.133:443?path=%2FVLESS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=5774.ir&fp=chrome&type=ws&sni=live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://d74acf2c-2148-4343-891c-627c4b5d690b@151.101.38.133:443?path=%2FVLESS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=5774.ir&fp=chrome&type=ws&sni=live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 
 
