@@ -64,9 +64,6 @@
 
 
 
-
-
-
 vless://f21ef1b5-9501-48bb-8252-09b78b999913@barbari.yusefkhare.sbs:19670?security=none&encryption=none&headerType=none&type=tcp#👉🆔@m3hdio1
 vless://913af369-de79-43b2-b251-c28ddabc6815@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=6.fidsxss2x.iR&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#👉🆔@m3hdio1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔@m3hdio1
@@ -89,5 +86,17 @@ vless://ZEDMODEON--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&encrypti
 vless://ZEDMODEON--joinZEDMODEON@166.88.142.45:10089?security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-join-ZEDMODEON-tel-ZEDMODEON-zedmodeon-ZEDMODEON-zedmodeon-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-join-ZEDMODEON-tel-ZEDMODEON-zedmodeon-ZEDMODEON-zedmodeon-ZEDMODEON#👉🆔@v2ray_configs_pool
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@185.59.218.21:443?path=%2Ftg%40fxnodes&security=tls&encryption=none&host=us-tg-fxnodes.sfacg.uk&type=ws&sni=us-tg-fxnodes.sfacg.uk#👉🆔@v2ray_configs_pool
 vless://f21ef1b5-9501-48bb-8252-09b78b999913@barbari.yusefkhare.sbs:19670?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool
+
+
+vmess://eyJhZGQiOiAic2kuMTgwOC5zaXRlIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiY2MyLjE4MDguc2l0ZSIsICJpZCI6ICJkM2Q4Yjc4MS1mMzBkLTQ5MDItOGViMC01OGIxY2E5MzZiZWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hncXF2d3MiLCAicG9ydCI6ICIzMDAwMiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiY2MyLjE4MDguc2l0ZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.102.51:443#👉🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#👉🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#👉🆔@v2ray_configs_pool
+vless://fe15351f-37f9-425d-bb72-97a37d58f5bf@77.90.11.122:35459?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig84.usecharge.ir:443#👉🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig82.usecharge.ir:443#👉🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#👉🆔@v2ray_configs_pool
 
 
