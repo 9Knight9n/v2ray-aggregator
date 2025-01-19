@@ -22,18 +22,6 @@ trojan://telegram-id-directvpn@13.53.64.206:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@3.67.246.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
 
 
-vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Germany2.vip-nufilter.coM&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#👉🆔@v2ray_configs_pool
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@50.17.144.128:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@15.157.232.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@3.97.92.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@3.148.28.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@52.14.64.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@98.83.123.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@13.49.8.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@13.53.64.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-trojan://telegram-id-directvpn@3.67.246.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
-
-
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.203.72:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.100.13:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.64.107:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
@@ -296,5 +284,17 @@ vless://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?mode=gun&securi
 vless://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.37.139:990#👉🆔 @v2ray_configs_pool📡🇵🇭Philippines
 vless://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
+
+
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.151.80:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.151.80:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4bcf1f64-51e1-5663-b09e-d54115e09149@74.119.195.5:2052?path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://efe46660-11ea-5933-8b39-43588c79904a@193.203.203.61:2052?path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.151.80:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4bcf1f64-51e1-5663-b09e-d54115e09149@74.119.195.5:2052?path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://4bcf1f64-51e1-5663-b09e-d54115e09149@74.119.195.5:2052?path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://efe46660-11ea-5933-8b39-43588c79904a@193.203.203.61:2052?path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 
 
