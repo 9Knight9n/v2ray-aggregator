@@ -1,0 +1,10 @@
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://6e3b5249-cc47-4cd7-b1d1-a578154317a4@tg-eliv2.f-35.store:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://6e3b5249-cc47-4cd7-b1d1-a578154317a4@tg-eliv2.f-35.store:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
+vless://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.37.139:990#👉🆔 @v2ray_configs_pool📡🇵🇭Philippines
+vless://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
