@@ -1,15 +1,3 @@
-vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://6e3b5249-cc47-4cd7-b1d1-a578154317a4@tg-eliv2.f-35.store:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://6e3b5249-cc47-4cd7-b1d1-a578154317a4@tg-eliv2.f-35.store:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-vless://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.37.139:990#👉🆔 @v2ray_configs_pool📡🇵🇭Philippines
-vless://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-
-
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.151.80:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
@@ -284,5 +272,17 @@ vless://bb6d7ded-03d5-42ac-bb5b-0e5a0501ee8a@live.989bull.com:443?path=%2FCHANNE
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.55:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://%40v2boxvpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+
+
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c2d0a8c0-20fb-44c6-8111-1c50019b5c6d@a11.kiodent.ir:2053?security=none&type=tcp&headerType=http&path=%2F&host=fast.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c2d0a8c0-20fb-44c6-8111-1c50019b5c6d@a11.kiodent.ir:2053?security=none&type=tcp&headerType=http&path=%2F&host=fast.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 
 
