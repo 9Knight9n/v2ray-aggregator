@@ -1,15 +1,3 @@
-trojan://user@s23.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s23.mynameismahsa.info#👉🆔@v2ray_configs_pool
-trojan://user@s24.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s24.mynameismahsa.info#👉🆔@v2ray_configs_pool
-trojan://user@s25.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s25.mynameismahsa.info#👉🆔@v2ray_configs_pool
-trojan://user@s26.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s26.mynameismahsa.info#👉🆔@v2ray_configs_pool
-vless://7874e36a-9345-48a3-9ba5-91e90936b77e@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔@v2ray_configs_pool
-vless://095d5a8e-1718-4016-9609-e37d7e953727@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔@v2ray_configs_pool
-vless://47537de9-804f-4f29-8f7b-ac61052c006e@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔@v2ray_configs_pool
-vless://d304cf7d-67bc-4e0a-8f8f-1599e6005066@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔@v2ray_configs_pool
-vless://63177cce-4eb5-432d-bf97-b334b4d19e77@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔@v2ray_configs_pool
-vless://85785498-b9f6-4607-bf25-31d849fb86eb@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔@v2ray_configs_pool
-
-
 vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.C.129.speedtest2.livE.&type=ws#👉🆔@v2ray_configs_pool
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjM4LjE0LjEwNy4yMjgiLCAicG9ydCI6IDM4MDAzLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImhvc3QiOiAid3d3LjIzMTc5NzUzLnh5eiIsICJwYXRoIjogIi9wYXRoLzE4MTcyMTI3MjExNCIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sIn0=
 vless://363daa1b-d235-4f32-8a59-0bfa8f4ad596@kamyar.vact.ir:2083/?type=grpc&serviceName=Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs&authority=&security=reality&pbk=TuZN_1XtdIQrXoKk5MFJR62hyz7FkIilrMEguBWtvmE&fp=randomized&sni=refersion.com&sid=4ea00ce2&spx=%2F#👉🆔@v2ray_configs_pool
@@ -249,6 +237,8 @@ vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-A
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.30.125:443?path=%2F%3Fed%3DMARAMBASHI\_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#👉🆔@v2ray_configs_pool
 vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#👉🆔@v2ray_configs_pool
 
+
+404: Not Found
 
 404: Not Found
 
