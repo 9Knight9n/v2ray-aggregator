@@ -286,3 +286,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.30.125:443?path=%2F%3Fed%3DM
 vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#👉🆔@v2ray_configs_pool
 
 
+404: Not Found
+
